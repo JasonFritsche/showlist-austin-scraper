@@ -1,0 +1,22 @@
+{
+  "name": "showlist-austin-scraper",
+  "version": "1.0.0",
+  "description": "Node.js project that scrapes showlist austin for concerts happening in Austin, TX",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JasonFritsche/showlist-austin-scraper.git"
+  },
+  "author": "Jason Fritsche",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/JasonFritsche/showlist-austin-scraper/issues"
+  },
+  "homepage": "https://github.com/JasonFritsche/showlist-austin-scraper#readme",
+  "dependencies": {
+    "puppeteer": "^19.3.0"
+  }
+}
