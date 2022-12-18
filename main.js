@@ -5,43 +5,23 @@ async function scrape() {
   const page = await browser.newPage();
 
   await page.goto("https://austin.showlists.net/");
-  const allShowData = await page.evaluate(() => {
-    const showElements = document.querySelectorAll("div.showlist div");
-    const showsElementsArr = Array.from(showElements);
-    const showDatesArr = showsElementsArr.filter(
-      (el) => el.querySelector(".text-brand")?.innerHTML
-    );
+  const allShowData = await page.evaluate(() =>
+    Array.from(document.querySelectorAll(".show-date"), (e) => ({
+      date: e.querySelector("h5.text-brand").innerText,
+      shows: Array.from(e.querySelectorAll("li.showlist-item"), (el) => ({
+        description: el.querySelector(".show-title")?.innerText,
+        eventLink: el.querySelector(".show-title")?.href,
+        venue: {
+          title: el.querySelector(".venue-title")?.innerText,
+          href: el.querySelector(".venue-title")?.href,
+          map: el.querySelector(".maps-link")?.href,
+        },
+        time: el.querySelector(".text-gray")?.innerText,
+      })),
+    }))
+  );
 
-    const parseShows = (element) => {
-      const liElements = [...element.childNodes];
-
-      const liData = liElements
-        .filter((node) => node.nodeType === Node.ELEMENT_NODE)
-        .map((el, idx) => {
-          const childNodeArr = Array.from(el.childNodes);
-          const showTitleEl = childNodeArr.find((childNode) =>
-            childNode?.className?.includes("show-title")
-          );
-          return {
-            description: showTitleEl?.innerText,
-            showHref: showTitleEl?.href,
-            childNodeArr: childNodeArr,
-          };
-        });
-      return liData;
-    };
-
-    const _allShowData = showDatesArr.map((el) => {
-      return {
-        data: el.childNodes,
-        shows: parseShows(el.querySelector("div.show-date > ul")),
-      };
-    });
-    return _allShowData;
-  });
-
-  //console.log(allShowData);
-  page.on("console", (msg) => console[msg._type]("PAGE LOG:", msg._text));
+  // page.on("console", (msg) => console[msg._type]("PAGE LOG:", msg._text));
 
   await browser.close();
 }
