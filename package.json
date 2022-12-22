@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/JasonFritsche/showlist-austin-scraper#readme",
   "dependencies": {
+    "dotenv": "^16.0.3",
+    "firebase": "^9.15.0",
     "puppeteer": "^19.3.0"
   }
 }
