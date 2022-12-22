@@ -1,5 +1,6 @@
 {
   "name": "showlist-austin-scraper",
+  "type": "module",
   "version": "1.0.0",
   "description": "Node.js project that scrapes showlist austin for concerts happening in Austin, TX",
   "main": "main.js",
