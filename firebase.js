@@ -1,5 +1,5 @@
 import { initializeApp } from "firebase/app";
-import { getFirestore, collection, addDoc } from "firebase/firestore";
+import { getFirestore, writeBatch, doc } from "firebase/firestore";
 import dotenv from "dotenv";
 
 async function updateDb(data) {
@@ -19,10 +19,18 @@ async function updateDb(data) {
   const app = initializeApp(firebaseConfig);
   const db = getFirestore(app);
   try {
-    const docRef = await addDoc(collection(db, "shows"), data);
-    console.log("Document written with ID: ", docRef.id);
+    console.log(data);
+    // Get a new write batch
+    const batch = writeBatch(db);
+
+    data.shows.forEach((showDate) => {
+      const ref = doc(db, "shows", showDate.date);
+      batch.set(ref, showDate);
+    });
+
+    await batch.commit();
   } catch (e) {
-    console.error("Error adding document: ", e);
+    console.warn("Error adding document: ", e);
   }
 }
 
