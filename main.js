@@ -1,3 +1,5 @@
+const puppeteer = require("puppeteer");
+
 async function scrape() {
   const browser = await puppeteer.launch({ dumpio: true });
   const page = await browser.newPage();
