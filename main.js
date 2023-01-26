@@ -24,4 +24,7 @@ async function scrape() {
 }
 
 const shows = await scrape();
-return shows;
+
+(function () {
+  return shows;
+})();
