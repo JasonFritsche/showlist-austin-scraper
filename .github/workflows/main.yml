@@ -1,7 +1,6 @@
 name: Resources
 on:
-  schedule:
-  - cron: '*/15 * * * *' 
+  workflow_dispatch: 
 jobs:
     resources:
         name: Update resources
