@@ -1,4 +1,10 @@
 import puppeteer from "puppeteer";
+const fs = require("fs");
+const path = require("path");
+
+const pathToData = path.join(__dirname, "showdata.json");
+
+let data = null;
 
 async function scrape() {
   const browser = await puppeteer.launch({ dumpio: true });
@@ -22,11 +28,13 @@ async function scrape() {
   );
 
   await browser.close();
-  return allShowData;
+  data = allShowData;
+  // return allShowData;
 }
 
-const shows = await scrape();
-
-(function () {
-  return shows;
-})();
+// execute and persist data
+scrape() // no top level await... yet
+  .then(() => {
+    // persist data
+    fs.writeFileSync(path.resolve(pathToData), JSON.stringify(data, null, 2));
+  });
