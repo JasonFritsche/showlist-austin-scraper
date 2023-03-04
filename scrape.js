@@ -1,4 +1,4 @@
-const puppeteer = require("puppeteer");
+import puppeteer from "puppeteer";
 
 export default async function scrape() {
   const browser = await puppeteer.launch({ dumpio: true });
