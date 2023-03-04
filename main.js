@@ -18,6 +18,7 @@ async function scrape() {
   await page.goto("https://austin.showlists.net/");
   const allShowData = await page.evaluate(() =>
     Array.from(document.querySelectorAll(".show-date"), (e) => ({
+      isodate: e.id,
       date: e.querySelector("h5.text-brand").innerText,
       shows: Array.from(e.querySelectorAll("li.showlist-item"), (el) => ({
         description: el.querySelector(".show-title")?.innerText,
@@ -41,5 +42,6 @@ async function scrape() {
 scrape() // no top level await... yet
   .then(() => {
     // persist data
+    console.log(data);
     fs.writeFileSync(path.resolve(pathToData), JSON.stringify(data, null, 2));
   });
