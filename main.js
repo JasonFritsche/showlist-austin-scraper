@@ -34,7 +34,7 @@ async function scrape() {
   );
 
   await browser.close();
-  data = allShowData;
+  data = { allShowData };
   // return allShowData;
 }
 
