@@ -4,9 +4,7 @@ import path from "path";
 import { fileURLToPath } from "url";
 
 const __filename = fileURLToPath(import.meta.url);
-
 const __dirname = path.dirname(__filename);
-
 const pathToData = path.join(__dirname, "showdata.json");
 
 let data = null;
@@ -28,20 +26,19 @@ async function scrape() {
           href: el.querySelector(".venue-title")?.href,
           map: el.querySelector(".maps-link")?.href,
         },
-        time: el.querySelector(".text-gray")?.innerText,
+        time: el
+          .querySelector(".text-gray")
+          ?.innerText?.replace(/[\[\]']+/g, ""),
       })),
     }))
   );
 
   await browser.close();
   data = { allShowData };
-  // return allShowData;
 }
 
 // execute and persist data
-scrape() // no top level await... yet
-  .then(() => {
-    // persist data
-    console.log(data);
-    fs.writeFileSync(path.resolve(pathToData), JSON.stringify(data, null, 2));
-  });
+scrape().then(() => {
+  // persist data
+  fs.writeFileSync(path.resolve(pathToData), JSON.stringify(data, null, 2));
+});
