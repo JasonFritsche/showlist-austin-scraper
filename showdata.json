@@ -1,1373 +1,9 @@
 {
   "allShowData": [
     {
-      "isodate": "20230724",
-      "date": "Monday, July 24th 2023",
-      "shows": [
-        {
-          "description": "Alicia Keys ",
-          "eventLink": "https://moodycenteratx.com/event/alicia-keys/",
-          "venue": {
-            "title": "Moody Center",
-            "href": "https://moodycenteratx.com/",
-            "map": "https://goo.gl/maps/2KtqAFQwq7rpRHJF8"
-          }
-        },
-        {
-          "description": "Andrea Magee ",
-          "eventLink": "https://events.timely.fun/r5bk3h1a/event/69403294/20230724183000",
-          "venue": {
-            "title": "C-Boy’s Heart & Soul",
-            "href": "https://www.cboys.com/",
-            "map": "https://goo.gl/maps/mvL9kxoJ8nr7AVzn6"
-          },
-          "time": "6:30pm"
-        },
-        {
-          "description": "BLUEGRASS NIGHT ",
-          "eventLink": "https://www.radiocoffeeandbeer.com/new-events/grass/dec26-9z6ny-85wjc-fg5y5-482k3-pxpjh-wh522-n5af2-83jth-gchby-lr3b4-kdnlf-fz5g5-88thf-s8k9a-7rrf8-xbzx7-d96zt-sh3wy-d6ft8-3abyl-sk7y8-jgm8w-ylfb2-9h7dw-g5zx5-592f8-bmxys-f5gyc-2jrpz",
-          "venue": {
-            "title": "Radio Coffee & Beer",
-            "href": "https://www.radiocoffeeandbeer.com/",
-            "map": "https://goo.gl/maps/YDqokEP9f9bZrkQV9"
-          },
-          "time": "8:00 PM"
-        },
-        {
-          "description": "Dale Watson ",
-          "eventLink": "https://events.timely.fun/74avt53i/event/75831001/20230724221500",
-          "venue": {
-            "title": "Continental Club",
-            "href": "https://continentalclub.com/",
-            "map": "https://goo.gl/maps/vggDYwnwCkmS1NUd8"
-          },
-          "time": "10:15pm"
-        },
-        {
-          "description": "Eve Monsees & Mike Buck ",
-          "eventLink": "https://events.timely.fun/74avt53i/event/69403017/20230724183000",
-          "venue": {
-            "title": "Continental Club",
-            "href": "https://continentalclub.com/",
-            "map": "https://goo.gl/maps/vggDYwnwCkmS1NUd8"
-          },
-          "time": "6:30pm"
-        },
-        {
-          "description": "Flyjack’s Funk and Soul Revival ",
-          "eventLink": "https://events.timely.fun/r5bk3h1a/event/76827060/20230724213000",
-          "venue": {
-            "title": "C-Boy’s Heart & Soul",
-            "href": "https://www.cboys.com/",
-            "map": "https://goo.gl/maps/mvL9kxoJ8nr7AVzn6"
-          },
-          "time": "9:30pm"
-        },
-        {
-          "description": "Jadu Heart w/ Redbud ",
-          "eventLink": "https://antonesnightclub.com/tm-event/jadu-heart/",
-          "venue": {
-            "title": "Antone's",
-            "href": "https://www.antonesnightclub.com/",
-            "map": "https://goo.gl/maps/Qay1CvGbucGWX8b29"
-          }
-        },
-        {
-          "description": "Lonelyland ",
-          "eventLink": "https://www.eventbrite.com/e/lonelyland-tickets-648450602207?aff=ebdsoporgprofile",
-          "venue": {
-            "title": "Saxon Pub",
-            "href": "https://www.thesaxonpub.com/",
-            "map": "https://goo.gl/maps/JTFBunRPYJ6fd1dK6"
-          },
-          "time": "8:30 PM"
-        },
-        {
-          "description": "Meridian Brothers w/ Money Chicha at The Far Out Lounge ",
-          "eventLink": "http://www.thefaroutaustin.com/eventDetails.html#-NUxlUF1gyT-tyCugA6a",
-          "venue": {
-            "title": "The Far Out Lounge and Stage",
-            "href": "http://www.thefaroutaustin.com/",
-            "map": "https://g.page/The-Far-Out?share"
-          }
-        },
-        {
-          "description": "palefade. / Prize Horse / Trembler / Fawn ",
-          "eventLink": "https://www.facebook.com/events/219040964331504/",
-          "venue": {
-            "title": "Chess Club",
-            "href": "https://chessclubaustin.com/",
-            "map": "https://goo.gl/maps/2Kr41wy1Lf9W5ztG6"
-          }
-        },
-        {
-          "description": "Zealand the North, Hubris, Still Motions, I Hear Sirens, The Khost ",
-          "eventLink": "https://mohawkaustin.com/event/?id=532452769662728430",
-          "venue": {
-            "title": "Mohawk",
-            "href": "http://www.mohawkaustin.com/",
-            "map": "https://goo.gl/maps/WpAmaWKfMwZV4eTGA"
-          },
-          "time": "8pm, Indoor, All Ages"
-        }
-      ]
-    },
-    {
-      "isodate": "20230725",
-      "date": "Tuesday, July 25th 2023",
-      "shows": [
-        {
-          "description": "82 Souvenirs ",
-          "eventLink": "https://events.timely.fun/r5bk3h1a/event/72342560/20230725183000",
-          "venue": {
-            "title": "C-Boy’s Heart & Soul",
-            "href": "https://www.cboys.com/",
-            "map": "https://goo.gl/maps/mvL9kxoJ8nr7AVzn6"
-          },
-          "time": "6:30pm"
-        },
-        {
-          "description": "Alan Haynes featuring Durawa ",
-          "eventLink": "http://erniedurawadrums.com/",
-          "venue": {
-            "title": "El Mercado South",
-            "href": "http://austinbackstage.com/"
-          },
-          "time": "6:30 PM, All Ages, Backstage"
-        },
-        {
-          "description": "Dmitri, Andy Aylward, Adam Ostrar ",
-          "eventLink": "https://mohawkaustin.com/event/?id=532452769862419529",
-          "venue": {
-            "title": "Mohawk",
-            "href": "http://www.mohawkaustin.com/",
-            "map": "https://goo.gl/maps/WpAmaWKfMwZV4eTGA"
-          },
-          "time": "8pm, Indoor, All Ages"
-        },
-        {
-          "description": "Geranium Drive, Lady Dan, The Dialtones ",
-          "eventLink": "https://texashotelvegas.com/calendar/",
-          "venue": {
-            "title": "Hotel Vegas",
-            "href": "https://texashotelvegas.com/",
-            "map": "https://goo.gl/maps/XyjbbCzRW7R9zDtNA"
-          },
-          "time": "9:00 pm"
-        },
-        {
-          "description": "Imarhan w/ Nemegata at The Far Out Lounge ",
-          "eventLink": "http://www.thefaroutaustin.com/eventDetails.html#-NTpeJ8FqbZV00Wrr3bH",
-          "venue": {
-            "title": "The Far Out Lounge and Stage",
-            "href": "http://www.thefaroutaustin.com/",
-            "map": "https://g.page/The-Far-Out?share"
-          }
-        },
-        {
-          "description": "Kelley Mickwee ",
-          "eventLink": "https://events.timely.fun/74avt53i/event/76294649/20230725183000",
-          "venue": {
-            "title": "Continental Club",
-            "href": "https://continentalclub.com/",
-            "map": "https://goo.gl/maps/vggDYwnwCkmS1NUd8"
-          },
-          "time": "6:30pm"
-        },
-        {
-          "description": "LINT! / Paper Garden / Tendency ",
-          "eventLink": "https://www.facebook.com/events/825960875720592/",
-          "venue": {
-            "title": "Chess Club",
-            "href": "https://chessclubaustin.com/",
-            "map": "https://goo.gl/maps/2Kr41wy1Lf9W5ztG6"
-          }
-        },
-        {
-          "description": "Memphis Kee ",
-          "eventLink": "https://www.eventbrite.com/e/memphis-kee-tickets-672403696557?aff=ebdsoporgprofile",
-          "venue": {
-            "title": "Saxon Pub",
-            "href": "https://www.thesaxonpub.com/",
-            "map": "https://goo.gl/maps/JTFBunRPYJ6fd1dK6"
-          },
-          "time": "10:00 PM"
-        },
-        {
-          "description": "Rhythm N Booze with Russell Lee & his funky friends25 ",
-          "eventLink": "https://wl.seetickets.us/event/Variety-Jams-with-Russell-Lee-Greyhounds/557187?afflky=Parish",
-          "venue": {
-            "title": "Parish",
-            "href": "https://www.theparishaustin.com/",
-            "map": "https://goo.gl/maps/zjueu2H8J3Uwb1Dd7"
-          }
-        },
-        {
-          "description": "SOLD OUT: -X- w/ James Intveld ",
-          "eventLink": "https://antonesnightclub.com/tm-event/x/",
-          "venue": {
-            "title": "Antone's",
-            "href": "https://www.antonesnightclub.com/",
-            "map": "https://goo.gl/maps/Qay1CvGbucGWX8b29"
-          }
-        },
-        {
-          "description": "TBA, The Nightowls ",
-          "eventLink": "https://events.timely.fun/r5bk3h1a/event/76782174/20230725213000",
-          "venue": {
-            "title": "C-Boy’s Heart & Soul",
-            "href": "https://www.cboys.com/",
-            "map": "https://goo.gl/maps/mvL9kxoJ8nr7AVzn6"
-          },
-          "time": "9:30pm"
-        },
-        {
-          "description": "THE GHOULISH SHOW HOSTED BY MAX BOOTH III ",
-          "eventLink": "https://www.radiocoffeeandbeer.com/new-events/2023/7/25/ghoulish/littlegreenghouls",
-          "venue": {
-            "title": "Radio Coffee & Beer",
-            "href": "https://www.radiocoffeeandbeer.com/",
-            "map": "https://goo.gl/maps/YDqokEP9f9bZrkQV9"
-          },
-          "time": "8:00 PM"
-        },
-        {
-          "description": "The Last Jimenez, Van Jackson ",
-          "eventLink": "https://events.timely.fun/74avt53i/event/74091772/20230725220000",
-          "venue": {
-            "title": "Continental Club",
-            "href": "https://continentalclub.com/",
-            "map": "https://goo.gl/maps/vggDYwnwCkmS1NUd8"
-          },
-          "time": "10:00pm"
-        },
-        {
-          "description": "The Tiarras, Ruben Ramos, DJ Old Skool ",
-          "eventLink": "https://www.facebook.com/events/1273423176877028",
-          "venue": {
-            "title": "Pan Am Recreation Center Hillside",
-            "href": "https://www.facebook.com/events/1273423176877028"
-          },
-          "time": "5:00 PM, All Ages, Outdoor Stage, FREE"
-        },
-        {
-          "description": "Waylon Payne ",
-          "eventLink": "https://www.eventbrite.com/e/waylon-payne-tickets-658165951077?aff=ebdsoporgprofile",
-          "venue": {
-            "title": "Saxon Pub",
-            "href": "https://www.thesaxonpub.com/",
-            "map": "https://goo.gl/maps/JTFBunRPYJ6fd1dK6"
-          },
-          "time": "8:00 PM"
-        }
-      ]
-    },
-    {
-      "isodate": "20230726",
-      "date": "Wednesday, July 26th 2023",
-      "shows": [
-        {
-          "description": "Allisen & the Wy’s Guys ",
-          "eventLink": "https://events.timely.fun/74avt53i/event/72151818/20230726183000",
-          "venue": {
-            "title": "Continental Club",
-            "href": "https://continentalclub.com/",
-            "map": "https://goo.gl/maps/vggDYwnwCkmS1NUd8"
-          },
-          "time": "6:30pm"
-        },
-        {
-          "description": "Buscabulla w/ Brijean ",
-          "eventLink": "https://antonesnightclub.com/tm-event/buscabulla/",
-          "venue": {
-            "title": "Antone's",
-            "href": "https://www.antonesnightclub.com/",
-            "map": "https://goo.gl/maps/Qay1CvGbucGWX8b29"
-          }
-        },
-        {
-          "description": "Buzz Electro, Sabbath Crow, The Highest Control ",
-          "eventLink": "https://link.dice.fm/U3003ef6155d?pid=b8e3d821",
-          "venue": {
-            "title": "13th Floor",
-            "href": "https://the13thflooraustin.com/",
-            "map": "https://goo.gl/maps/ABwAaj128YbuhQLcA"
-          }
-        },
-        {
-          "description": "Cherry Street: The Unofficial Yellowcard After Party with HYPRCLR, Sleep Well., Brigitte Bandit, MK ULTRA, Franky L’Amour, Owie & DJ Turito (9PM) ",
-          "eventLink": "https://cheerupcharlies.com/event/7-26-cherry-street-the-unofficial-yellowcard-after-party-with-hyprclr-sleep-well-brigitte-bandit-mk-ultra-franky-lamour-owie-dj-turito-9pm/",
-          "venue": {
-            "title": "Cheer Up Charlies",
-            "href": "http://cheerupcharlies.com/",
-            "map": "https://goo.gl/maps/8APC6NBeC5AN3Te27"
-          }
-        },
-        {
-          "description": "Chris Beall Band ",
-          "eventLink": "https://www.eventbrite.com/e/chris-beall-band-tickets-658163614087?aff=ebdsoporgprofile",
-          "venue": {
-            "title": "Saxon Pub",
-            "href": "https://www.thesaxonpub.com/",
-            "map": "https://goo.gl/maps/JTFBunRPYJ6fd1dK6"
-          },
-          "time": "8:00 PM"
-        },
-        {
-          "description": "Hotel Burgundy, Sparkling Light Dr., Deep Fried Soul ",
-          "eventLink": "https://mohawkaustin.com/event/?id=532452769568161530",
-          "venue": {
-            "title": "Mohawk",
-            "href": "http://www.mohawkaustin.com/",
-            "map": "https://goo.gl/maps/WpAmaWKfMwZV4eTGA"
-          },
-          "time": "8pm, Indoor, All Ages"
-        },
-        {
-          "description": "Hotel Vegas Keytag Show ft. Trouble in the Streets with Of the Roses ",
-          "eventLink": "https://texashotelvegas.com/calendar/",
-          "venue": {
-            "title": "Hotel Vegas",
-            "href": "https://texashotelvegas.com/",
-            "map": "https://goo.gl/maps/XyjbbCzRW7R9zDtNA"
-          },
-          "time": "9:00 pm"
-        },
-        {
-          "description": "John Dempsy ",
-          "eventLink": "https://www.eventbrite.com/e/john-dempsy-tickets-672394087817?aff=ebdsoporgprofile",
-          "venue": {
-            "title": "Saxon Pub",
-            "href": "https://www.thesaxonpub.com/",
-            "map": "https://goo.gl/maps/JTFBunRPYJ6fd1dK6"
-          },
-          "time": "10:00 PM"
-        },
-        {
-          "description": "Morry Sochat & The Special Henri Herbert ",
-          "eventLink": "https://events.timely.fun/r5bk3h1a/event/76565470/20230726220000",
-          "venue": {
-            "title": "C-Boy’s Heart & Soul",
-            "href": "https://www.cboys.com/",
-            "map": "https://goo.gl/maps/mvL9kxoJ8nr7AVzn6"
-          },
-          "time": "10:00pm"
-        },
-        {
-          "description": "Porcelain (Night One) / Touch Girl Apple Blossom / Prehuman ",
-          "eventLink": "https://www.facebook.com/events/1252503878963132",
-          "venue": {
-            "title": "Chess Club",
-            "href": "https://chessclubaustin.com/",
-            "map": "https://goo.gl/maps/2Kr41wy1Lf9W5ztG6"
-          }
-        },
-        {
-          "description": "School of Rock Allstars ",
-          "eventLink": "https://3tenaustin.com/calendar/school-of-rock-allstars-2023-072623",
-          "venue": {
-            "title": "3TEN Austin City Limits Live",
-            "href": "https://3tenaustin.com/",
-            "map": "https://goo.gl/maps/x5RB7U6jfaCN7ybx6"
-          }
-        },
-        {
-          "description": "Sparta –ears of Wiretap Scars w/ Zeta ",
-          "eventLink": "https://wl.seetickets.us/event/Sparta-20YearsofWiretapScars/544995?afflky=ResoundPresents",
-          "venue": {
-            "title": "Parish",
-            "href": "https://www.theparishaustin.com/",
-            "map": "https://goo.gl/maps/zjueu2H8J3Uwb1Dd7"
-          }
-        },
-        {
-          "description": "Taking Back Sunday ",
-          "eventLink": "http://admin.germaniaamp.com/events/sad-summer-festival-2023",
-          "venue": {
-            "title": "Germania Insurance Amphitheater",
-            "href": "http://germaniaamp.com/",
-            "map": "https://goo.gl/maps/jK28MGn3yg87j4v98"
-          }
-        },
-        {
-          "description": "The Moeller Brothers ",
-          "eventLink": "https://events.timely.fun/r5bk3h1a/event/69403366/20230726183000",
-          "venue": {
-            "title": "C-Boy’s Heart & Soul",
-            "href": "https://www.cboys.com/",
-            "map": "https://goo.gl/maps/mvL9kxoJ8nr7AVzn6"
-          },
-          "time": "6:30pm"
-        },
-        {
-          "description": "WARREN HOOD ",
-          "eventLink": "https://theabgb.com/facebook-event/warren-hood-101/",
-          "venue": {
-            "title": "ABGB",
-            "href": "https://theabgb.com/",
-            "map": "https://g.page/TheABGB?share"
-          },
-          "time": "7PM"
-        },
-        {
-          "description": "Weed Martyr w/ Heartchaser ",
-          "eventLink": "http://www.thefaroutaustin.com/eventDetails.html#-NVW1-I_PZadvwPGfDYl",
-          "venue": {
-            "title": "The Far Out Lounge and Stage",
-            "href": "http://www.thefaroutaustin.com/",
-            "map": "https://g.page/The-Far-Out?share"
-          }
-        },
-        {
-          "description": "William Harries Graham, Jon Dee Graham, Carrie Fussell (of Calliope Musicals) ",
-          "eventLink": "https://events.timely.fun/74avt53i/event/76634321/20230726214500",
-          "venue": {
-            "title": "Continental Club",
-            "href": "https://continentalclub.com/",
-            "map": "https://goo.gl/maps/vggDYwnwCkmS1NUd8"
-          },
-          "time": "9:45pm"
-        },
-        {
-          "description": "Yellowcard: Celebratingears of Ocean Avenue ",
-          "eventLink": "https://www.stubbsaustin.com/concert-listings/calendar/yellowcard-celebrating-20-years-of-ocean-avenue",
-          "venue": {
-            "title": "Stubb's",
-            "href": "https://www.stubbsaustin.com/",
-            "map": "https://goo.gl/maps/YP4HpizaisBNToKh9"
-          },
-          "time": "All ages"
-        }
-      ]
-    },
-    {
-      "isodate": "20230727",
-      "date": "Thursday, July 27th 2023",
-      "shows": [
-        {
-          "description": "Barfield, The Tyrant ",
-          "eventLink": "https://events.timely.fun/74avt53i/event/69402945/20230727223000",
-          "venue": {
-            "title": "Continental Club",
-            "href": "https://continentalclub.com/",
-            "map": "https://goo.gl/maps/vggDYwnwCkmS1NUd8"
-          },
-          "time": "10:30pm"
-        },
-        {
-          "description": "Captain Howdy & The Sunset Serenaders, Daydream Twins, Hyperbad, Elephant Ears ",
-          "eventLink": "https://www.eventbrite.com/e/captain-howdy-the-sunset-serenaders-daydream-twins-elephant-ears-hyper-tickets-648998701587",
-          "venue": {
-            "title": "Swan Dive",
-            "href": "http://www.swandiveaustin.com/",
-            "map": "https://goo.gl/maps/z6yZF72BKLEgRSXr8"
-          }
-        },
-        {
-          "description": "Casper Rawls ",
-          "eventLink": "https://events.timely.fun/74avt53i/event/69402828/20230727183000",
-          "venue": {
-            "title": "Continental Club",
-            "href": "https://continentalclub.com/",
-            "map": "https://goo.gl/maps/vggDYwnwCkmS1NUd8"
-          },
-          "time": "6:30pm"
-        },
-        {
-          "description": "Flamingos in the Tree w/ Silver Cup ",
-          "eventLink": "https://wl.seetickets.us/event/Flamingos-intheTree/544873?afflky=ResoundPresents",
-          "venue": {
-            "title": "Empire Control Room & Garage",
-            "href": "http://empireatx.com/",
-            "map": "https://goo.gl/maps/TNmcJw4minmK4NtH6"
-          }
-        },
-        {
-          "description": "flor w/ Flora & Fawna and Lonesome Rhodes ",
-          "eventLink": "https://wl.seetickets.us/event/flor/551370?afflky=ResoundPresents",
-          "venue": {
-            "title": "Parish",
-            "href": "https://www.theparishaustin.com/",
-            "map": "https://goo.gl/maps/zjueu2H8J3Uwb1Dd7"
-          }
-        },
-        {
-          "description": "Glasshealer, Elegy, I’d Really Like To See You Again ",
-          "eventLink": "https://texashotelvegas.com/calendar/",
-          "venue": {
-            "title": "Hotel Vegas",
-            "href": "https://texashotelvegas.com/",
-            "map": "https://goo.gl/maps/XyjbbCzRW7R9zDtNA"
-          },
-          "time": "9:00 pm"
-        },
-        {
-          "description": "In the Jade Room: Mel & James ",
-          "eventLink": "https://events.timely.fun/r5bk3h1a/event/69403340/20230727220000",
-          "venue": {
-            "title": "C-Boy’s Heart & Soul",
-            "href": "https://www.cboys.com/",
-            "map": "https://goo.gl/maps/mvL9kxoJ8nr7AVzn6"
-          },
-          "time": "10:00pm"
-        },
-        {
-          "description": "JéTexas, The Point ",
-          "eventLink": "https://events.timely.fun/r5bk3h1a/event/76797008/20230727220000",
-          "venue": {
-            "title": "C-Boy’s Heart & Soul",
-            "href": "https://www.cboys.com/",
-            "map": "https://goo.gl/maps/mvL9kxoJ8nr7AVzn6"
-          },
-          "time": "10:00pm"
-        },
-        {
-          "description": "Linz & Brad ",
-          "eventLink": "https://events.timely.fun/r5bk3h1a/event/74814346/20230727183000",
-          "venue": {
-            "title": "C-Boy’s Heart & Soul",
-            "href": "https://www.cboys.com/",
-            "map": "https://goo.gl/maps/mvL9kxoJ8nr7AVzn6"
-          },
-          "time": "6:30pm"
-        },
-        {
-          "description": "Michael Franti & Spearhead with SOJA ",
-          "eventLink": "https://acllive.com/calendar/michael-franti-spearhead-72723",
-          "venue": {
-            "title": "Austin City Limits Live at The Moody Theater",
-            "href": "https://acl-live.com/",
-            "map": "https://goo.gl/maps/sv95TT6mCFterhwJA"
-          }
-        },
-        {
-          "description": "Might Be Magic: Thursday Pop Up w/ Brett Johnson, The Silver Rider and Lambda ",
-          "eventLink": "https://empireatx.com/events/empire-presents-might-be-magic-thursday-pop-up-w-brett-johnson-the-silver-rider-and-lambda/",
-          "venue": {
-            "title": "Empire Control Room & Garage",
-            "href": "http://empireatx.com/",
-            "map": "https://goo.gl/maps/TNmcJw4minmK4NtH6"
-          }
-        },
-        {
-          "description": "Mike Donello & The New Essentials ",
-          "eventLink": "https://www.eventbrite.com/e/mike-donello-the-new-essentials-tickets-672390677617?aff=ebdsoporgprofile",
-          "venue": {
-            "title": "Saxon Pub",
-            "href": "https://www.thesaxonpub.com/",
-            "map": "https://goo.gl/maps/JTFBunRPYJ6fd1dK6"
-          },
-          "time": "10:00 PM"
-        },
-        {
-          "description": "Molly Ringworm, Slaughter Creek, Mortar, Bountytx ",
-          "eventLink": "https://mohawkaustin.com/event/?id=532452769568156957",
-          "venue": {
-            "title": "Mohawk",
-            "href": "http://www.mohawkaustin.com/",
-            "map": "https://goo.gl/maps/WpAmaWKfMwZV4eTGA"
-          },
-          "time": "8pm, Indoor, All Ages"
-        },
-        {
-          "description": "Neon Highway ('90s Country Tribute) w/ DJ Tropicana Joe ",
-          "eventLink": "http://www.thefaroutaustin.com/eventDetails.html#-NPOjfI9uNlrWeTenfUR",
-          "venue": {
-            "title": "The Far Out Lounge and Stage",
-            "href": "http://www.thefaroutaustin.com/",
-            "map": "https://g.page/The-Far-Out?share"
-          }
-        },
-        {
-          "description": "Patrice Pike ",
-          "eventLink": "https://www.eventbrite.com/e/patrice-pike-tickets-658147606207?aff=ebdsoporgprofile",
-          "venue": {
-            "title": "Saxon Pub",
-            "href": "https://www.thesaxonpub.com/",
-            "map": "https://goo.gl/maps/JTFBunRPYJ6fd1dK6"
-          },
-          "time": "8:00 PM"
-        },
-        {
-          "description": "Porcelain (Night Two) / Body Tape / Doom Dub ",
-          "eventLink": "https://www.facebook.com/events/1252503878963132",
-          "venue": {
-            "title": "Chess Club",
-            "href": "https://chessclubaustin.com/",
-            "map": "https://goo.gl/maps/2Kr41wy1Lf9W5ztG6"
-          }
-        },
-        {
-          "description": "Shared Walls, Blah Spa, and Psychic Shark ",
-          "eventLink": "https://link.dice.fm/K0473a692a9c?pid=b8e3d821",
-          "venue": {
-            "title": "13th Floor",
-            "href": "https://the13thflooraustin.com/",
-            "map": "https://goo.gl/maps/ABwAaj128YbuhQLcA"
-          }
-        },
-        {
-          "description": "SOLD OUT – Blondshell: My Home Is Your Playground Tour w/ Hello Mary ",
-          "eventLink": "https://antonesnightclub.com/tm-event/blondshell-my-home-is-your-playground-summer-tour-w-hello-mary/",
-          "venue": {
-            "title": "Antone's",
-            "href": "https://www.antonesnightclub.com/",
-            "map": "https://goo.gl/maps/Qay1CvGbucGWX8b29"
-          }
-        },
-        {
-          "description": "Steve Miller Band ",
-          "eventLink": "http://admin.germaniaamp.com/events/steve-miller-band",
-          "venue": {
-            "title": "Germania Insurance Amphitheater",
-            "href": "http://germaniaamp.com/",
-            "map": "https://goo.gl/maps/jK28MGn3yg87j4v98"
-          }
-        },
-        {
-          "description": "VEGAS ON THE SPOT: BFF (Brian’s birthday!) & Misfortune Teller ",
-          "eventLink": "https://texashotelvegas.com/calendar/",
-          "venue": {
-            "title": "Hotel Vegas",
-            "href": "https://texashotelvegas.com/",
-            "map": "https://goo.gl/maps/XyjbbCzRW7R9zDtNA"
-          },
-          "time": "6:30 pm"
-        }
-      ]
-    },
-    {
-      "isodate": "20230728",
-      "date": "Friday, July 28th 2023",
-      "shows": [
-        {
-          "description": "Antone’s Anniversary: DJ Paul w/ Young Buck & Kidd Kidd (MIDNIGHT SHOW) ",
-          "eventLink": "https://antonesnightclub.com/tm-event/antones-anniversary-dj-paul-w-young-buck-midnight-show/",
-          "venue": {
-            "title": "Antone's",
-            "href": "https://www.antonesnightclub.com/",
-            "map": "https://goo.gl/maps/Qay1CvGbucGWX8b29"
-          }
-        },
-        {
-          "description": "Antone’s Anniversary: Eric Gales w/ CJ Chenier (Closing Night) ",
-          "eventLink": "https://antonesnightclub.com/tm-event/antones-anniversary-eric-gales-w-cj-chenier-closing-night/",
-          "venue": {
-            "title": "Antone's",
-            "href": "https://www.antonesnightclub.com/",
-            "map": "https://goo.gl/maps/Qay1CvGbucGWX8b29"
-          }
-        },
-        {
-          "description": "Cheeky Orange / Intensive Care Unit / Blank Suit ",
-          "eventLink": "https://www.facebook.com/events/934671097608372/",
-          "venue": {
-            "title": "Chess Club",
-            "href": "https://chessclubaustin.com/",
-            "map": "https://goo.gl/maps/2Kr41wy1Lf9W5ztG6"
-          }
-        },
-        {
-          "description": "Deuce Bennett, The Soapboxers, Russel Taine Jr. ",
-          "eventLink": "https://www.eventbrite.com/e/deuce-bennett-the-soapboxers-russel-taine-jr-tickets-666137574417",
-          "venue": {
-            "title": "Swan Dive",
-            "href": "http://www.swandiveaustin.com/",
-            "map": "https://goo.gl/maps/z6yZF72BKLEgRSXr8"
-          }
-        },
-        {
-          "description": "DJ MTV on the patio! ",
-          "eventLink": "https://texashotelvegas.com/calendar/",
-          "venue": {
-            "title": "Hotel Vegas",
-            "href": "https://texashotelvegas.com/",
-            "map": "https://goo.gl/maps/XyjbbCzRW7R9zDtNA"
-          },
-          "time": "10:00 pm"
-        },
-        {
-          "description": "Exercise (album release), Borzoi, A.L. West, Cow Mangler 5000 ",
-          "eventLink": "https://texashotelvegas.com/calendar/",
-          "venue": {
-            "title": "Hotel Vegas",
-            "href": "https://texashotelvegas.com/",
-            "map": "https://goo.gl/maps/XyjbbCzRW7R9zDtNA"
-          },
-          "time": "9:00 pm"
-        },
-        {
-          "description": "Final Gasp, Inner Self, Laughing Matter, Disowned ",
-          "eventLink": "https://mohawkaustin.com/event/?id=532452769915145133",
-          "venue": {
-            "title": "Mohawk",
-            "href": "http://www.mohawkaustin.com/",
-            "map": "https://goo.gl/maps/WpAmaWKfMwZV4eTGA"
-          },
-          "time": "8pm, Indoor, All Ages"
-        },
-        {
-          "description": "Gary Allan ",
-          "eventLink": "http://roundrockamp.com/",
-          "venue": {
-            "title": "Round Rock Amp",
-            "href": "http://roundrockamp.com/"
-          },
-          "time": "6:00 PM, All Ages"
-        },
-        {
-          "description": "Henri Herbert ",
-          "eventLink": "https://events.timely.fun/r5bk3h1a/event/74174081/20230728183000",
-          "venue": {
-            "title": "C-Boy’s Heart & Soul",
-            "href": "https://www.cboys.com/",
-            "map": "https://goo.gl/maps/mvL9kxoJ8nr7AVzn6"
-          },
-          "time": "6:30pm"
-        },
-        {
-          "description": "Killer Hearts, The Oxy's, Queen Jane ",
-          "eventLink": "https://www.thelostwell.com/",
-          "venue": {
-            "title": "The Lost Well",
-            "href": "https://www.thelostwell.com/",
-            "map": "https://goo.gl/maps/c3yDcZUyAic5fHn79"
-          },
-          "time": "9:00pm"
-        },
-        {
-          "description": "Lady Dan, Half Dream, and Retro Cowgirl ",
-          "eventLink": "https://link.dice.fm/d064fa4454e7?pid=b8e3d821",
-          "venue": {
-            "title": "13th Floor",
-            "href": "https://the13thflooraustin.com/",
-            "map": "https://goo.gl/maps/ABwAaj128YbuhQLcA"
-          }
-        },
-        {
-          "description": "Leo Zodiac Party w/ BONDBREAKR, Molly Ringworm, Transit Method and More! ",
-          "eventLink": "http://www.thefaroutaustin.com/eventDetails.html#-NZgaM9czODXr2ftCnbe",
-          "venue": {
-            "title": "The Far Out Lounge and Stage",
-            "href": "http://www.thefaroutaustin.com/",
-            "map": "https://g.page/The-Far-Out?share"
-          }
-        },
-        {
-          "description": "Lil Baby ",
-          "eventLink": "https://moodycenteratx.com/event/lil-baby/",
-          "venue": {
-            "title": "Moody Center",
-            "href": "https://moodycenteratx.com/",
-            "map": "https://goo.gl/maps/2KtqAFQwq7rpRHJF8"
-          }
-        },
-        {
-          "description": "Marti + Rosie & The Rattleshakes, Sea Monks ",
-          "eventLink": "https://events.timely.fun/74avt53i/event/76259751/20230728220000",
-          "venue": {
-            "title": "Continental Club",
-            "href": "https://continentalclub.com/",
-            "map": "https://goo.gl/maps/vggDYwnwCkmS1NUd8"
-          },
-          "time": "10:00pm"
-        },
-        {
-          "description": "MIDDLE SATTRE // SAN GABRIEL ",
-          "eventLink": "https://www.radiocoffeeandbeer.com/new-events/2023/7/28/middlesattre/sangabriel",
-          "venue": {
-            "title": "Radio Coffee & Beer",
-            "href": "https://www.radiocoffeeandbeer.com/",
-            "map": "https://goo.gl/maps/YDqokEP9f9bZrkQV9"
-          },
-          "time": "8:00 PM"
-        },
-        {
-          "description": "Mike Farris ",
-          "eventLink": "https://www.eventbrite.com/e/mike-farris-tickets-615236608257?aff=ebdsoporgprofile",
-          "venue": {
-            "title": "Saxon Pub",
-            "href": "https://www.thesaxonpub.com/",
-            "map": "https://goo.gl/maps/JTFBunRPYJ6fd1dK6"
-          },
-          "time": "8:00 PM"
-        },
-        {
-          "description": "Mike Flanigin Trio w/ Jimmie Vaughan ",
-          "eventLink": "https://events.timely.fun/r5bk3h1a/event/69403275/20230728223000",
-          "venue": {
-            "title": "C-Boy’s Heart & Soul",
-            "href": "https://www.cboys.com/",
-            "map": "https://goo.gl/maps/mvL9kxoJ8nr7AVzn6"
-          },
-          "time": "10:30pm"
-        },
-        {
-          "description": "Rob Baird ",
-          "eventLink": "https://www.eventbrite.com/e/rob-baird-tickets-648434293427?aff=ebdsoporgprofile",
-          "venue": {
-            "title": "Saxon Pub",
-            "href": "https://www.thesaxonpub.com/",
-            "map": "https://goo.gl/maps/JTFBunRPYJ6fd1dK6"
-          },
-          "time": "10:00 PM"
-        },
-        {
-          "description": "Scott Collins w/ Emily Davis and EASY COMPADRE! ",
-          "eventLink": "https://wl.seetickets.us/event/Scott-Collins/557178?afflky=EmpireControlRoom",
-          "venue": {
-            "title": "Empire Control Room & Garage",
-            "href": "http://empireatx.com/",
-            "map": "https://goo.gl/maps/TNmcJw4minmK4NtH6"
-          }
-        },
-        {
-          "description": "SOLD OUT: Antone’s Anniversary SUPER TICKET ",
-          "eventLink": "https://antonesnightclub.com/tm-event/sold-out-antones-anniversary-super-ticket/",
-          "venue": {
-            "title": "Antone's",
-            "href": "https://www.antonesnightclub.com/",
-            "map": "https://goo.gl/maps/Qay1CvGbucGWX8b29"
-          }
-        },
-        {
-          "description": "Space Tan w/Herdscene and The Rear View Mirrors ",
-          "eventLink": "https://soundspaceatx.com/event/space-tan-w-herdscene-and-the-rear-view-mirrors/",
-          "venue": {
-            "title": "Soundspace At Captain Quack's",
-            "href": "https://soundspaceatx.com/",
-            "map": "https://goo.gl/maps/F3cZXGNfJp4GrZDx9"
-          }
-        },
-        {
-          "description": "SUSTO w/ Ellis Bullard ",
-          "eventLink": "https://www.seetickets.us/event/SUSTO-w-Esther-Rose/547994",
-          "venue": {
-            "title": "Parish",
-            "href": "https://www.theparishaustin.com/",
-            "map": "https://goo.gl/maps/zjueu2H8J3Uwb1Dd7"
-          }
-        },
-        {
-          "description": "The Blues Specialists ",
-          "eventLink": "https://events.timely.fun/74avt53i/event/69402810/20230728183000",
-          "venue": {
-            "title": "Continental Club",
-            "href": "https://continentalclub.com/",
-            "map": "https://goo.gl/maps/vggDYwnwCkmS1NUd8"
-          },
-          "time": "6:30pm"
-        },
-        {
-          "description": "The Capital Underground Pilot Preview Party featuring The Victim, Shitty Advice, Worm Suicide, Dead Lions, ",
-          "eventLink": "https://www.facebook.com/events/607341271387312",
-          "venue": {
-            "title": "Kick Butt Coffee",
-            "href": "https://www.kickbuttcoffee.com/"
-          },
-          "time": "8:00 PM, All Ages"
-        },
-        {
-          "description": "THE SWINDLERS ",
-          "eventLink": "https://theabgb.com/facebook-event/the-shinglers/",
-          "venue": {
-            "title": "ABGB",
-            "href": "https://theabgb.com/",
-            "map": "https://g.page/TheABGB?share"
-          },
-          "time": "8PM"
-        },
-        {
-          "description": "VEGAS ON THE SPOT: Otis the Destroyer & CLUB COMA ",
-          "eventLink": "https://texashotelvegas.com/calendar/",
-          "venue": {
-            "title": "Hotel Vegas",
-            "href": "https://texashotelvegas.com/",
-            "map": "https://goo.gl/maps/XyjbbCzRW7R9zDtNA"
-          },
-          "time": "6:30 pm"
-        },
-        {
-          "description": "Young The Giant with Milky Chance ",
-          "eventLink": "http://admin.germaniaamp.com/events/young-the-giant",
-          "venue": {
-            "title": "Germania Insurance Amphitheater",
-            "href": "http://germaniaamp.com/",
-            "map": "https://goo.gl/maps/jK28MGn3yg87j4v98"
-          }
-        },
-        {
-          "description": "Zoso: The Ultimate Led Zeppelin Experience ",
-          "eventLink": "https://3tenaustin.com/calendar/zoso-072823",
-          "venue": {
-            "title": "3TEN Austin City Limits Live",
-            "href": "https://3tenaustin.com/",
-            "map": "https://goo.gl/maps/x5RB7U6jfaCN7ybx6"
-          }
-        }
-      ]
-    },
-    {
-      "isodate": "20230729",
-      "date": "Saturday, July 29th 2023",
-      "shows": [
-        {
-          "description": "Alien Summer Party with Bubu, Gothess Jasmine, Rosalind Hussell, Embry Officially, Andie Flores, Sinful Purchase, Good Lucifer, Liz Dexia & DJ Scam Likely (10PM) ",
-          "eventLink": "https://cheerupcharlies.com/event/7-29-alien-summer-party-with-bubu-gothess-jasmine-rosalind-hussell-embry-officially-andie-flores-sinful-purchase-good-lucifer-liz-dexia-dj-scam-likely-10pm/",
-          "venue": {
-            "title": "Cheer Up Charlies",
-            "href": "http://cheerupcharlies.com/",
-            "map": "https://goo.gl/maps/8APC6NBeC5AN3Te27"
-          }
-        },
-        {
-          "description": "ALLISEN & the WY'S GUYS, $10 at door ",
-          "eventLink": "https://theabgb.com/facebook-event/allisen-the-wys-guys-2/",
-          "venue": {
-            "title": "ABGB",
-            "href": "https://theabgb.com/",
-            "map": "https://g.page/TheABGB?share"
-          },
-          "time": "9PM"
-        },
-        {
-          "description": "Ann Marie ",
-          "eventLink": "https://wl.seetickets.us/event/Ann-Marie/555119?afflky=ResoundPresents",
-          "venue": {
-            "title": "Parish",
-            "href": "https://www.theparishaustin.com/",
-            "map": "https://goo.gl/maps/zjueu2H8J3Uwb1Dd7"
-          }
-        },
-        {
-          "description": "BENISE – Fiesta! ",
-          "eventLink": "https://3tenaustin.com/calendar/benise-fiesta-72923",
-          "venue": {
-            "title": "3TEN Austin City Limits Live",
-            "href": "https://3tenaustin.com/",
-            "map": "https://goo.gl/maps/x5RB7U6jfaCN7ybx6"
-          }
-        },
-        {
-          "description": "BENISE – Fiesta! ",
-          "eventLink": "https://3tenaustin.com/calendar/benise-fiesta-72923-late-show",
-          "venue": {
-            "title": "3TEN Austin City Limits Live",
-            "href": "https://3tenaustin.com/",
-            "map": "https://goo.gl/maps/x5RB7U6jfaCN7ybx6"
-          }
-        },
-        {
-          "description": "Braid: Frame & Canvas Anniversary Tour featuring Braid, Recover, Signals Midwest, Rad Gnar ",
-          "eventLink": "https://wl.seetickets.us/event/Braid-FrameandCanvas25thAnniversaryTour/534984?afflky=ThirdStringEntertainment&sp=1EQD1S",
-          "venue": {
-            "title": "Come and Take It Live"
-          },
-          "time": "6:00 PM, All Ages"
-        },
-        {
-          "description": "Coven Underground Presents featuring Deocculted, Demonseed, Cesspool Of Corruption, Overthrow, Phase IV ",
-          "eventLink": "https://www.facebook.com/events/1774720069567703",
-          "venue": {
-            "title": "Kick Butt Coffee",
-            "href": "https://www.kickbuttcoffee.com/"
-          },
-          "time": "7:00 PM, All Ages"
-        },
-        {
-          "description": "DJ Crustlord ",
-          "eventLink": "https://www.thelostwell.com/",
-          "venue": {
-            "title": "The Lost Well",
-            "href": "https://www.thelostwell.com/",
-            "map": "https://goo.gl/maps/c3yDcZUyAic5fHn79"
-          },
-          "time": "9:00pm"
-        },
-        {
-          "description": "Don Leady ",
-          "eventLink": "https://www.eventbrite.com/e/don-leady-tickets-658145780747?aff=ebdsoporgprofile",
-          "venue": {
-            "title": "Saxon Pub",
-            "href": "https://www.thesaxonpub.com/",
-            "map": "https://goo.gl/maps/JTFBunRPYJ6fd1dK6"
-          },
-          "time": "6:00 PM"
-        },
-        {
-          "description": "Earl Poole Ball ",
-          "eventLink": "https://events.timely.fun/74avt53i/event/69402912/20230729153000",
-          "venue": {
-            "title": "Continental Club",
-            "href": "https://continentalclub.com/",
-            "map": "https://goo.gl/maps/vggDYwnwCkmS1NUd8"
-          },
-          "time": "3:30pm"
-        },
-        {
-          "description": "Eric Church ",
-          "eventLink": "http://admin.germaniaamp.com/events/the-outsiders-revival-tour",
-          "venue": {
-            "title": "Germania Insurance Amphitheater",
-            "href": "http://germaniaamp.com/",
-            "map": "https://goo.gl/maps/jK28MGn3yg87j4v98"
-          }
-        },
-        {
-          "description": "Gimme Gimme Disco ",
-          "eventLink": "https://wl.seetickets.us/event/Gimme-GimmeDisco/552184?afflky=EmpireControlRoom",
-          "venue": {
-            "title": "Empire Control Room & Garage",
-            "href": "http://empireatx.com/",
-            "map": "https://goo.gl/maps/TNmcJw4minmK4NtH6"
-          }
-        },
-        {
-          "description": "Imaginary Stereo 031 featuring Jek, Happy Disasta, Black DaVinci, Willis Nillis, Connor Crowe ",
-          "eventLink": "https://www.eventbrite.com/e/imaginary-stereo-031-tickets-679781463657?aff=oddtdtcreator",
-          "venue": {
-            "title": "dadaLab",
-            "href": "https://dadalab.io/"
-          },
-          "time": "8:00 PM, All Ages, Donations Accepted"
-        },
-        {
-          "description": "In Dust We Trust featuring Snugg, Bunny Wabbit, Jen Lasher, Penny Jane, Absoluccio ",
-          "eventLink": "https://posh.vip/e/in-dust-we-trust-1000-hands-fundraiser",
-          "venue": {
-            "title": "Highbrow Lowbrow",
-            "href": "https://hblbatx.com/"
-          },
-          "time": "9:00 PM, 21+, Fractal Droid Stage"
-        },
-        {
-          "description": "Jeff Crosby ",
-          "eventLink": "https://www.eventbrite.com/e/jeff-crosby-tickets-651002334507?aff=ebdsoporgprofile",
-          "venue": {
-            "title": "Saxon Pub",
-            "href": "https://www.thesaxonpub.com/",
-            "map": "https://goo.gl/maps/JTFBunRPYJ6fd1dK6"
-          },
-          "time": "10:00 PM"
-        },
-        {
-          "description": "Komodo Drag Race w/Kabuto and Dream Eater ",
-          "eventLink": "https://soundspaceatx.com/event/komodo-drag-race-w-kabuto-and-dream-eater/",
-          "venue": {
-            "title": "Soundspace At Captain Quack's",
-            "href": "https://soundspaceatx.com/",
-            "map": "https://goo.gl/maps/F3cZXGNfJp4GrZDx9"
-          }
-        },
-        {
-          "description": "Kyote Radio w/ Hyperbad and Summer Sleep ",
-          "eventLink": "http://www.thefaroutaustin.com/eventDetails.html#-Na3EyF4kfET7lH-2KJt",
-          "venue": {
-            "title": "The Far Out Lounge and Stage",
-            "href": "http://www.thefaroutaustin.com/",
-            "map": "https://g.page/The-Far-Out?share"
-          }
-        },
-        {
-          "description": "Me Nd Adam: American Drip Part II Album Release Party w/ KVN, Foxtales ",
-          "eventLink": "https://antonesnightclub.com/tm-event/me-nd-adam-texas-to-infinity-tour-pt-ii/",
-          "venue": {
-            "title": "Antone's",
-            "href": "https://www.antonesnightclub.com/",
-            "map": "https://goo.gl/maps/Qay1CvGbucGWX8b29"
-          }
-        },
-        {
-          "description": "Mike Flanigin Trio w/ Jimmie Vaughan ",
-          "eventLink": "https://events.timely.fun/r5bk3h1a/event/69403275/20230729223000",
-          "venue": {
-            "title": "C-Boy’s Heart & Soul",
-            "href": "https://www.cboys.com/",
-            "map": "https://goo.gl/maps/mvL9kxoJ8nr7AVzn6"
-          },
-          "time": "10:30pm"
-        },
-        {
-          "description": "Montclair, Rococo Disco, West, Fehrenbacher ",
-          "eventLink": "https://www.eventbrite.com/e/montclair-rococo-disco-west-22nd-fehrenbacher-tickets-676035158357?aff=oddtdtcreator",
-          "venue": {
-            "title": "Swan Dive",
-            "href": "http://www.swandiveaustin.com/",
-            "map": "https://goo.gl/maps/z6yZF72BKLEgRSXr8"
-          }
-        },
-        {
-          "description": "Nerve, Slow Pulse, Hell.fury, Secret Green, Gasbath ",
-          "eventLink": "https://mohawkaustin.com/event/?id=532452769862413300",
-          "venue": {
-            "title": "Mohawk",
-            "href": "http://www.mohawkaustin.com/",
-            "map": "https://goo.gl/maps/WpAmaWKfMwZV4eTGA"
-          },
-          "time": "8pm, Indoor, All Ages"
-        },
-        {
-          "description": "Painted Portraits / Sunshine Creepers / Ivy Mine ",
-          "eventLink": "https://www.facebook.com/events/996340838070836",
-          "venue": {
-            "title": "Chess Club",
-            "href": "https://chessclubaustin.com/",
-            "map": "https://goo.gl/maps/2Kr41wy1Lf9W5ztG6"
-          }
-        },
-        {
-          "description": "Pearl Earl, The Pinky Rings, Billy Glitter, Gus Baldwin and the Sketch, DJ Astral Violet ",
-          "eventLink": "https://link.dice.fm/F99c9981faef?pid=b8e3d821",
-          "venue": {
-            "title": "13th Floor",
-            "href": "https://the13thflooraustin.com/",
-            "map": "https://goo.gl/maps/ABwAaj128YbuhQLcA"
-          }
-        },
-        {
-          "description": "Porterdavis ",
-          "eventLink": "https://www.eventbrite.com/e/porterdavis-tickets-658168278037?aff=ebdsoporgprofile",
-          "venue": {
-            "title": "Saxon Pub",
-            "href": "https://www.thesaxonpub.com/",
-            "map": "https://goo.gl/maps/JTFBunRPYJ6fd1dK6"
-          },
-          "time": "8:00 PM"
-        },
-        {
-          "description": "Sips & Sounds Summer Festival Amplified by Coke Studio ",
-          "eventLink": "https://www.moodyamphitheater.com/events/sips-sounds-summer-festival",
-          "venue": {
-            "title": "Moody Amphitheater",
-            "href": "https://waterloogreenway.org/events/",
-            "map": "https://goo.gl/maps/pytu6q3SF74GxHMa8"
-          },
-          "time": "2:00pm"
-        },
-        {
-          "description": "The Breakfast Boogie w/ Hot Toast Music Co. ",
-          "eventLink": "http://www.thefaroutaustin.com/eventDetails.html#-NYslmoNaXoy6PuWac8m",
-          "venue": {
-            "title": "The Far Out Lounge and Stage",
-            "href": "http://www.thefaroutaustin.com/",
-            "map": "https://g.page/The-Far-Out?share"
-          }
-        },
-        {
-          "description": "The Derailers ",
-          "eventLink": "https://events.timely.fun/74avt53i/event/69402860/20230729223000",
-          "venue": {
-            "title": "Continental Club",
-            "href": "https://continentalclub.com/",
-            "map": "https://goo.gl/maps/vggDYwnwCkmS1NUd8"
-          },
-          "time": "10:30pm"
-        },
-        {
-          "description": "The Naughty Ones ",
-          "eventLink": "https://events.timely.fun/74avt53i/event/69402614/20230729193000",
-          "venue": {
-            "title": "Continental Club",
-            "href": "https://continentalclub.com/",
-            "map": "https://goo.gl/maps/vggDYwnwCkmS1NUd8"
-          },
-          "time": "7:30pm"
-        },
-        {
-          "description": "The Sea Monks ",
-          "eventLink": "https://events.timely.fun/r5bk3h1a/event/76731452/20230729193000",
-          "venue": {
-            "title": "C-Boy’s Heart & Soul",
-            "href": "https://www.cboys.com/",
-            "map": "https://goo.gl/maps/mvL9kxoJ8nr7AVzn6"
-          },
-          "time": "7:30pm"
-        },
-        {
-          "description": "VEGAS ON THE SPOT: Good Field & Danny Golden ",
-          "eventLink": "https://texashotelvegas.com/calendar/",
-          "venue": {
-            "title": "Hotel Vegas",
-            "href": "https://texashotelvegas.com/",
-            "map": "https://goo.gl/maps/XyjbbCzRW7R9zDtNA"
-          },
-          "time": "6:30 pm"
-        }
-      ]
-    },
-    {
-      "isodate": "20230730",
-      "date": "Sunday, July 30th 2023",
-      "shows": [
-        {
-          "description": "Blood Red Shoes with BLUSHING ",
-          "eventLink": "https://3tenaustin.com/calendar/blood-red-shoes-073023",
-          "venue": {
-            "title": "3TEN Austin City Limits Live",
-            "href": "https://3tenaustin.com/",
-            "map": "https://goo.gl/maps/x5RB7U6jfaCN7ybx6"
-          }
-        },
-        {
-          "description": "Body Pillow (Residency) with Sammy G & Marley Moon ",
-          "eventLink": "https://texashotelvegas.com/calendar/",
-          "venue": {
-            "title": "Hotel Vegas",
-            "href": "https://texashotelvegas.com/",
-            "map": "https://goo.gl/maps/XyjbbCzRW7R9zDtNA"
-          },
-          "time": "9:00 pm"
-        },
-        {
-          "description": "Ginny’s Chicken $#!+ Bingo! w/The Derailers ",
-          "eventLink": "https://events.timely.fun/r5bk3h1a/event/69403159/20230730153000",
-          "venue": {
-            "title": "C-Boy’s Heart & Soul",
-            "href": "https://www.cboys.com/",
-            "map": "https://goo.gl/maps/mvL9kxoJ8nr7AVzn6"
-          },
-          "time": "3:30pm"
-        },
-        {
-          "description": "Gospel Brunch: Gospel Stars ",
-          "eventLink": "https://www.stubbsaustin.com/concert-listings",
-          "venue": {
-            "title": "Stubb's",
-            "href": "https://www.stubbsaustin.com/",
-            "map": "https://goo.gl/maps/YP4HpizaisBNToKh9"
-          }
-        },
-        {
-          "description": "Heybale! ",
-          "eventLink": "https://events.timely.fun/74avt53i/event/69402816/20230730183000",
-          "venue": {
-            "title": "Continental Club",
-            "href": "https://continentalclub.com/",
-            "map": "https://goo.gl/maps/vggDYwnwCkmS1NUd8"
-          },
-          "time": "6:30pm"
-        },
-        {
-          "description": "Jimmie Dreams & Friends ",
-          "eventLink": "https://events.timely.fun/74avt53i/event/69402870/20230730143000",
-          "venue": {
-            "title": "Continental Club",
-            "href": "https://continentalclub.com/",
-            "map": "https://goo.gl/maps/vggDYwnwCkmS1NUd8"
-          },
-          "time": "2:30pm"
-        },
-        {
-          "description": "John Talley-Jones and Volcano Rabbit ",
-          "eventLink": "https://link.dice.fm/ef98930c8cf2?pid=b8e3d821",
-          "venue": {
-            "title": "13th Floor",
-            "href": "https://the13thflooraustin.com/",
-            "map": "https://goo.gl/maps/ABwAaj128YbuhQLcA"
-          }
-        },
-        {
-          "description": "Mike & the BurnAlls! ",
-          "eventLink": "https://events.timely.fun/r5bk3h1a/event/69403261/20230730220000",
-          "venue": {
-            "title": "C-Boy’s Heart & Soul",
-            "href": "https://www.cboys.com/",
-            "map": "https://goo.gl/maps/mvL9kxoJ8nr7AVzn6"
-          },
-          "time": "10:00pm"
-        },
-        {
-          "description": "Night Swim with Sasha Colby & Kerri Colby, Brigitte Bandit, Louisianna Purchase, Bohemia, Amber Nicole Davenport & p1nkstar (7PM) ",
-          "eventLink": "https://cheerupcharlies.com/event/7-30-night-swim-with-sasha-colby-kerri-colby-brigitte-bandit-louisianna-purchase-bohemia-amber-nicole-davenport-p1nkstar-7pm/",
-          "venue": {
-            "title": "Cheer Up Charlies",
-            "href": "http://cheerupcharlies.com/",
-            "map": "https://goo.gl/maps/8APC6NBeC5AN3Te27"
-          }
-        },
-        {
-          "description": "poptropicaslutz! – Truth Is In The Glitter Tour w/ Chloe Lilac and ",
-          "eventLink": "https://wl.seetickets.us/event/poptropicaslutz-TruthIsInTheGlitterTour/545010?afflky=EmpireControlRoom",
-          "venue": {
-            "title": "Empire Control Room & Garage",
-            "href": "http://empireatx.com/",
-            "map": "https://goo.gl/maps/TNmcJw4minmK4NtH6"
-          }
-        },
-        {
-          "description": "Ricky Duran w/ Ada Pasternak ",
-          "eventLink": "https://antonesnightclub.com/tm-event/ricky-duran/",
-          "venue": {
-            "title": "Antone's",
-            "href": "https://www.antonesnightclub.com/",
-            "map": "https://goo.gl/maps/Qay1CvGbucGWX8b29"
-          }
-        },
-        {
-          "description": "SADDLE SORES ",
-          "eventLink": "https://theabgb.com/facebook-event/saddle-sores-7/",
-          "venue": {
-            "title": "ABGB",
-            "href": "https://theabgb.com/",
-            "map": "https://g.page/TheABGB?share"
-          },
-          "time": "4PM"
-        },
-        {
-          "description": "Strawberry Milk Cult, The Backroom Rumors, West, Tealwaves ",
-          "eventLink": "https://mohawkaustin.com/event/?id=532452769997240338",
-          "venue": {
-            "title": "Mohawk",
-            "href": "http://www.mohawkaustin.com/",
-            "map": "https://goo.gl/maps/WpAmaWKfMwZV4eTGA"
-          },
-          "time": "7pm, Indoor, All Ages"
-        },
-        {
-          "description": "The Resentments ",
-          "eventLink": "https://www.eventbrite.com/e/the-resentments-tickets-658164687297?aff=ebdsoporgprofile",
-          "venue": {
-            "title": "Saxon Pub",
-            "href": "https://www.thesaxonpub.com/",
-            "map": "https://goo.gl/maps/JTFBunRPYJ6fd1dK6"
-          },
-          "time": "7:30 PM"
-        },
-        {
-          "description": "The South Austin Flea at The Far Out Lounge ",
-          "eventLink": "http://www.thefaroutaustin.com/eventDetails.html#-N_tOi89oNKAnx74CM97",
-          "venue": {
-            "title": "The Far Out Lounge and Stage",
-            "href": "http://www.thefaroutaustin.com/",
-            "map": "https://g.page/The-Far-Out?share"
-          }
-        },
-        {
-          "description": "Willie Pipkin & Friends ",
-          "eventLink": "https://events.timely.fun/74avt53i/event/69402861/20230730213000",
-          "venue": {
-            "title": "Continental Club",
-            "href": "https://continentalclub.com/",
-            "map": "https://goo.gl/maps/vggDYwnwCkmS1NUd8"
-          },
-          "time": "9:30pm"
-        }
-      ]
-    },
-    {
       "isodate": "20230731",
       "date": "Monday, July 31st 2023",
       "shows": [
-        {
-          "description": "Andrea Magee ",
-          "eventLink": "https://events.timely.fun/r5bk3h1a/event/69403294/20230731183000",
-          "venue": {
-            "title": "C-Boy’s Heart & Soul",
-            "href": "https://www.cboys.com/",
-            "map": "https://goo.gl/maps/mvL9kxoJ8nr7AVzn6"
-          },
-          "time": "6:30pm"
-        },
         {
           "description": "Blue Monday with Soul Man Sam plus Lindsay Beaver & Brad Stivers ",
           "eventLink": "https://antonesnightclub.com/tm-event/blue-monday-with-soul-man-sam-plus-lindsay-beaver-brad-stivers-24/",
@@ -1414,6 +50,16 @@
             "map": "https://goo.gl/maps/vggDYwnwCkmS1NUd8"
           },
           "time": "10:15pm"
+        },
+        {
+          "description": "Dave Scher Trio ",
+          "eventLink": "https://events.timely.fun/r5bk3h1a/event/69403155/20230731183000",
+          "venue": {
+            "title": "C-Boy’s Heart & Soul",
+            "href": "https://www.cboys.com/",
+            "map": "https://goo.gl/maps/mvL9kxoJ8nr7AVzn6"
+          },
+          "time": "6:30pm"
         },
         {
           "description": "Eve Monsees & Mike Buck ",
@@ -1499,12 +145,41 @@
           }
         },
         {
+          "description": "Fan Club’s Funeral and Farewell, Grocery Bag, Fan Club, Witches Exist, Rat Church ",
+          "eventLink": "https://mohawkaustin.com/event/?id=532452770094720018",
+          "venue": {
+            "title": "Mohawk",
+            "href": "http://www.mohawkaustin.com/",
+            "map": "https://goo.gl/maps/WpAmaWKfMwZV4eTGA"
+          },
+          "time": "7pm, Indoor, All Ages"
+        },
+        {
+          "description": "Fan Club’s Funeral and Farewell, Grocery Bag, Fan Club, Witches Exist, Rat Church ",
+          "eventLink": "https://mohawkaustin.com/event/?id=532452770094720018",
+          "venue": {
+            "title": "Mohawk",
+            "href": "http://www.mohawkaustin.com/",
+            "map": "https://goo.gl/maps/WpAmaWKfMwZV4eTGA"
+          },
+          "time": "7pm, Indoor, All Ages"
+        },
+        {
           "description": "Goodbye Ranger (Phoenix) ft. Sun Moon and Allwax ",
           "eventLink": "https://link.dice.fm/ga3ca5afff73?pid=b8e3d821",
           "venue": {
             "title": "13th Floor",
             "href": "https://the13thflooraustin.com/",
             "map": "https://goo.gl/maps/ABwAaj128YbuhQLcA"
+          }
+        },
+        {
+          "description": "Henri Herbert and Walter Daniels at The Far Out Lounge ",
+          "eventLink": "http://www.thefaroutaustin.com/eventDetails.html#-NaSKeAGTwYO6plMaUjd",
+          "venue": {
+            "title": "The Far Out Lounge and Stage",
+            "href": "http://www.thefaroutaustin.com/",
+            "map": "https://g.page/The-Far-Out?share"
           }
         },
         {
@@ -1528,6 +203,15 @@
           "time": "9:30pm"
         },
         {
+          "description": "Jorge Drexler ",
+          "eventLink": "https://tickets.austintheatre.org/9913",
+          "venue": {
+            "title": "Paramount Theater",
+            "href": "https://www.austintheatre.org/",
+            "map": "https://goo.gl/maps/mfdK4n3eneGRdEUM7"
+          }
+        },
+        {
           "description": "NIKI ",
           "eventLink": "https://www.moodyamphitheater.com/events/niki",
           "venue": {
@@ -1536,6 +220,16 @@
             "map": "https://goo.gl/maps/pytu6q3SF74GxHMa8"
           },
           "time": "6:00pm"
+        },
+        {
+          "description": "Rusty Dusty (Residency) with Billy Glitter & Jack Fister ",
+          "eventLink": "https://texashotelvegas.com/calendar/",
+          "venue": {
+            "title": "Hotel Vegas",
+            "href": "https://texashotelvegas.com/",
+            "map": "https://goo.gl/maps/XyjbbCzRW7R9zDtNA"
+          },
+          "time": "9:00 pm"
         },
         {
           "description": "Tessa Violet w/ Frances Forever ",
@@ -1632,6 +326,25 @@
           "time": "8:00 PM"
         },
         {
+          "description": "Kairos w/ True Summit and The Holy Temple ",
+          "eventLink": "http://www.thefaroutaustin.com/eventDetails.html#-NaOC8CGV8MRWRft_FeR",
+          "venue": {
+            "title": "The Far Out Lounge and Stage",
+            "href": "http://www.thefaroutaustin.com/",
+            "map": "https://g.page/The-Far-Out?share"
+          }
+        },
+        {
+          "description": "Paige Plaisance, Heartchaser ",
+          "eventLink": "https://events.timely.fun/r5bk3h1a/event/76835644/20230802220000",
+          "venue": {
+            "title": "C-Boy’s Heart & Soul",
+            "href": "https://www.cboys.com/",
+            "map": "https://goo.gl/maps/mvL9kxoJ8nr7AVzn6"
+          },
+          "time": "10:00pm"
+        },
+        {
           "description": "The Moeller Brothers ",
           "eventLink": "https://events.timely.fun/r5bk3h1a/event/69403366/20230802183000",
           "venue": {
@@ -1649,6 +362,25 @@
             "href": "https://www.theparishaustin.com/",
             "map": "https://goo.gl/maps/zjueu2H8J3Uwb1Dd7"
           }
+        },
+        {
+          "description": "Wil and Doug Residency ft. Jake Ames and Alex Riegelman ",
+          "eventLink": "https://link.dice.fm/y8667a78faa3?pid=b8e3d821",
+          "venue": {
+            "title": "13th Floor",
+            "href": "https://the13thflooraustin.com/",
+            "map": "https://goo.gl/maps/ABwAaj128YbuhQLcA"
+          }
+        },
+        {
+          "description": "Wild Pleasures, Sadistic Force, Sexcult, Stannis ",
+          "eventLink": "https://texashotelvegas.com/calendar/",
+          "venue": {
+            "title": "Hotel Vegas",
+            "href": "https://texashotelvegas.com/",
+            "map": "https://goo.gl/maps/XyjbbCzRW7R9zDtNA"
+          },
+          "time": "8:00 pm"
         },
         {
           "description": "William Harries Graham, Jon Dee Graham, JéTexas ",
@@ -1746,6 +478,24 @@
           "time": "10:00pm"
         },
         {
+          "description": "Jazz Kween Presents: Social + Open Stage ",
+          "eventLink": "https://www.monksjazz.com/events-calendar/jazz-kween-aug-3rd",
+          "venue": {
+            "title": "Monks Jazz Club",
+            "href": "https://www.monksjazz.com/"
+          },
+          "time": "7:00 PM, 21+"
+        },
+        {
+          "description": "Might Be Magic: Thursday Pop Up w/IAMYU & CB SMOOVE and Brett Johnson ",
+          "eventLink": "https://empireatx.com/events/empire-presents-might-be-magic-thursday-pop-up-w-brett-johnson-the-silver-rider-and-lambda-842/",
+          "venue": {
+            "title": "Empire Control Room & Garage",
+            "href": "http://empireatx.com/",
+            "map": "https://goo.gl/maps/TNmcJw4minmK4NtH6"
+          }
+        },
+        {
           "description": "One Night of Queen ",
           "eventLink": "https://acllive.com/calendar/one-night-of-queen-080323",
           "venue": {
@@ -1753,6 +503,16 @@
             "href": "https://acl-live.com/",
             "map": "https://goo.gl/maps/sv95TT6mCFterhwJA"
           }
+        },
+        {
+          "description": "Otis Wilkins, Bruce Robison ",
+          "eventLink": "https://events.timely.fun/r5bk3h1a/event/76835694/20230803220000",
+          "venue": {
+            "title": "C-Boy’s Heart & Soul",
+            "href": "https://www.cboys.com/",
+            "map": "https://goo.gl/maps/mvL9kxoJ8nr7AVzn6"
+          },
+          "time": "10:00pm"
         },
         {
           "description": "p1nkstar, Terror Pigeon, Sweat FM & Moonlasso ",
@@ -1793,6 +553,16 @@
           }
         },
         {
+          "description": "VEGAS ON THE SPOT: Brian Brian Brian & Liz Burrito ",
+          "eventLink": "https://texashotelvegas.com/calendar/",
+          "venue": {
+            "title": "Hotel Vegas",
+            "href": "https://texashotelvegas.com/",
+            "map": "https://goo.gl/maps/XyjbbCzRW7R9zDtNA"
+          },
+          "time": "6:30 pm"
+        },
+        {
           "description": "Vvvooolllluuummmeee, Luxury Television, Delenda ",
           "eventLink": "https://mohawkaustin.com/event/?id=532452770052719014",
           "venue": {
@@ -1818,14 +588,14 @@
       "date": "Friday, August 4th 2023",
       "shows": [
         {
-          "description": "Ariel & the Culture (Beso Beso Tour) with CHROMA & Josie Lockhart ",
-          "eventLink": "https://link.dice.fm/ArielVegas",
+          "description": "Bonnie Whitmore & The Sad Girls ",
+          "eventLink": "https://events.timely.fun/74avt53i/event/76833701/20230804220000",
           "venue": {
-            "title": "Hotel Vegas",
-            "href": "https://texashotelvegas.com/",
-            "map": "https://goo.gl/maps/XyjbbCzRW7R9zDtNA"
+            "title": "Continental Club",
+            "href": "https://continentalclub.com/",
+            "map": "https://goo.gl/maps/vggDYwnwCkmS1NUd8"
           },
-          "time": "9:00 pm"
+          "time": "10:00pm"
         },
         {
           "description": "CANDLER WILKINSON ",
@@ -1864,6 +634,25 @@
             "map": "https://goo.gl/maps/pytu6q3SF74GxHMa8"
           },
           "time": "6:30pm"
+        },
+        {
+          "description": "Fashion Change (Seattle, WA), Heaven, N.R.A. (Houston), Insane Urge ",
+          "eventLink": "https://texashotelvegas.com/calendar/",
+          "venue": {
+            "title": "Hotel Vegas",
+            "href": "https://texashotelvegas.com/",
+            "map": "https://goo.gl/maps/XyjbbCzRW7R9zDtNA"
+          },
+          "time": "9:00 pm"
+        },
+        {
+          "description": "Food Group album release w/ Pelvis Wrestly & Feeling Small ",
+          "eventLink": "https://soundspaceatx.com/event/food-group-album-release-w-pelvis-wrestly-feeling-small/",
+          "venue": {
+            "title": "Soundspace At Captain Quack's",
+            "href": "https://soundspaceatx.com/",
+            "map": "https://goo.gl/maps/F3cZXGNfJp4GrZDx9"
+          }
         },
         {
           "description": "Graham Wilkinson ",
@@ -1971,6 +760,25 @@
           "time": "6:30pm"
         },
         {
+          "description": "The Cumbia Movement w/ Cecilia and the Broken Hearts, Grupo Zenal Nortex ",
+          "eventLink": "http://www.thefaroutaustin.com/eventDetails.html#-NaDQt_82U9ZlzoXpDXE",
+          "venue": {
+            "title": "The Far Out Lounge and Stage",
+            "href": "http://www.thefaroutaustin.com/",
+            "map": "https://g.page/The-Far-Out?share"
+          }
+        },
+        {
+          "description": "The High Cost of Playing God, Black Mercy, Secret Green ",
+          "eventLink": "https://www.thelostwell.com/",
+          "venue": {
+            "title": "The Lost Well",
+            "href": "https://www.thelostwell.com/",
+            "map": "https://goo.gl/maps/c3yDcZUyAic5fHn79"
+          },
+          "time": "9:00pm"
+        },
+        {
           "description": "The Wind + The Wave ",
           "eventLink": "https://www.eventbrite.com/e/the-wind-the-wave-tickets-667676497377?aff=ebdsoporgprofile",
           "venue": {
@@ -1996,6 +804,16 @@
       "isodate": "20230805",
       "date": "Saturday, August 5th 2023",
       "shows": [
+        {
+          "description": "Ariel & the Culture (Beso Beso Tour) with CHROMA & Josie Lockhart ",
+          "eventLink": "https://link.dice.fm/ArielVegas",
+          "venue": {
+            "title": "Hotel Vegas",
+            "href": "https://texashotelvegas.com/",
+            "map": "https://goo.gl/maps/XyjbbCzRW7R9zDtNA"
+          },
+          "time": "9:00 pm"
+        },
         {
           "description": "Bill Kirchen ",
           "eventLink": "https://events.timely.fun/74avt53i/event/76534611/20230805193000",
@@ -2103,7 +921,7 @@
           "time": "6:00pm"
         },
         {
-          "description": "late night drive home ",
+          "description": "late night drive home /w Sam Ray Club ",
           "eventLink": "https://wl.seetickets.us/event/Late-NightDriveHome/543090?afflky=ResoundPresents",
           "venue": {
             "title": "Empire Control Room & Garage",
@@ -2130,6 +948,15 @@
             "map": "https://goo.gl/maps/mvL9kxoJ8nr7AVzn6"
           },
           "time": "10:30pm"
+        },
+        {
+          "description": "NeighborWoodStock featuring Alex & Lani, Mike & Ian's Side Hustle, Dos Amigos ",
+          "eventLink": "https://www.buzzmillcoffee.com/austin-buzzmill-events/2023/8/5/live-music-neighborwoodstock",
+          "venue": {
+            "title": "Buzz Mill Coffee",
+            "href": "https://www.buzzmillcoffee.com/"
+          },
+          "time": "8:00 PM, All Ages, FREE"
         },
         {
           "description": "Night Drive Record Release Party w/ Haunt Me and Holy Wire ",
@@ -2232,6 +1059,15 @@
       "date": "Sunday, August 6th 2023",
       "shows": [
         {
+          "description": "Daikaiju, Harriers of Discord, The Wee-Beasties ",
+          "eventLink": "https://www.facebook.com/events/967689761206588",
+          "venue": {
+            "title": "Kick Butt Coffee",
+            "href": "https://www.kickbuttcoffee.com/"
+          },
+          "time": "8:00 PM, All Ages"
+        },
+        {
           "description": "Ginger Leigh with Straight Up ",
           "eventLink": "https://antonesnightclub.com/tm-event/ginger-leigh-with-straight-up-2/",
           "venue": {
@@ -2268,6 +1104,26 @@
             "map": "https://g.page/TheABGB?share"
           },
           "time": "4PM"
+        },
+        {
+          "description": "Heybale! ",
+          "eventLink": "https://events.timely.fun/74avt53i/event/69402816/20230806183000",
+          "venue": {
+            "title": "Continental Club",
+            "href": "https://continentalclub.com/",
+            "map": "https://goo.gl/maps/vggDYwnwCkmS1NUd8"
+          },
+          "time": "6:30pm"
+        },
+        {
+          "description": "Jimmie Dreams & Friends ",
+          "eventLink": "https://events.timely.fun/74avt53i/event/69402870/20230806143000",
+          "venue": {
+            "title": "Continental Club",
+            "href": "https://continentalclub.com/",
+            "map": "https://goo.gl/maps/vggDYwnwCkmS1NUd8"
+          },
+          "time": "2:30pm"
         },
         {
           "description": "Kate Angel, Nolo, Saint Loretto ",
@@ -2328,6 +1184,16 @@
             "map": "https://goo.gl/maps/JTFBunRPYJ6fd1dK6"
           },
           "time": "5:30 PM"
+        },
+        {
+          "description": "Willie Pipkin & Friends ",
+          "eventLink": "https://events.timely.fun/74avt53i/event/69402861/20230806213000",
+          "venue": {
+            "title": "Continental Club",
+            "href": "https://continentalclub.com/",
+            "map": "https://goo.gl/maps/vggDYwnwCkmS1NUd8"
+          },
+          "time": "9:30pm"
         }
       ]
     },
@@ -2346,6 +1212,16 @@
           "time": "6:30pm"
         },
         {
+          "description": "BLUEGRASS NIGHT ",
+          "eventLink": "https://www.radiocoffeeandbeer.com/new-events/grass/dec26-9z6ny-85wjc-fg5y5-482k3-pxpjh-wh522-n5af2-83jth-gchby-lr3b4-kdnlf-fz5g5-88thf-s8k9a-7rrf8-xbzx7-d96zt-sh3wy-d6ft8-3abyl-sk7y8-jgm8w-ylfb2-9h7dw-g5zx5-592f8-bmxys-f5gyc-2jrpz-kyg8f-t2hn5",
+          "venue": {
+            "title": "Radio Coffee & Beer",
+            "href": "https://www.radiocoffeeandbeer.com/",
+            "map": "https://goo.gl/maps/YDqokEP9f9bZrkQV9"
+          },
+          "time": "8:00 PM"
+        },
+        {
           "description": "Cranial Abrasion, Kromathaw, Violent Intentions, Velvitte ",
           "eventLink": "https://mohawkaustin.com/event/?id=532452770004022065",
           "venue": {
@@ -2354,6 +1230,26 @@
             "map": "https://goo.gl/maps/WpAmaWKfMwZV4eTGA"
           },
           "time": "8pm, Indoor, All Ages"
+        },
+        {
+          "description": "Dale Watson ",
+          "eventLink": "https://events.timely.fun/74avt53i/event/75831001/20230807221500",
+          "venue": {
+            "title": "Continental Club",
+            "href": "https://continentalclub.com/",
+            "map": "https://goo.gl/maps/vggDYwnwCkmS1NUd8"
+          },
+          "time": "10:15pm"
+        },
+        {
+          "description": "Eve Monsees & Mike Buck ",
+          "eventLink": "https://events.timely.fun/74avt53i/event/69403017/20230807183000",
+          "venue": {
+            "title": "Continental Club",
+            "href": "https://continentalclub.com/",
+            "map": "https://goo.gl/maps/vggDYwnwCkmS1NUd8"
+          },
+          "time": "6:30pm"
         },
         {
           "description": "Flyjack’s Funk and Soul Revival ",
@@ -2469,6 +1365,15 @@
           "time": "10:00 PM"
         },
         {
+          "description": "Frail Talk, Bad Luck Penny, and Turtle Pond ",
+          "eventLink": "https://link.dice.fm/Q7589a8b71e4?pid=b8e3d821",
+          "venue": {
+            "title": "13th Floor",
+            "href": "https://the13thflooraustin.com/",
+            "map": "https://goo.gl/maps/ABwAaj128YbuhQLcA"
+          }
+        },
+        {
           "description": "Jack Burton and The One Trick Homies, The Nightowls ",
           "eventLink": "https://events.timely.fun/r5bk3h1a/event/76805112/20230808213000",
           "venue": {
@@ -2477,6 +1382,15 @@
             "map": "https://goo.gl/maps/mvL9kxoJ8nr7AVzn6"
           },
           "time": "9:30pm"
+        },
+        {
+          "description": "Lou Ann Barton and her All-Star Band plus Mike Keller ",
+          "eventLink": "https://antonesnightclub.com/tm-event/lou-ann-barton-and-her-all-star-band-plus-mike-keller/",
+          "venue": {
+            "title": "Antone's",
+            "href": "https://www.antonesnightclub.com/",
+            "map": "https://goo.gl/maps/Qay1CvGbucGWX8b29"
+          }
         },
         {
           "description": "Manchester Orchestra & Jimmy Eat World: The Amplified Echoes Tour ",
@@ -2498,6 +1412,54 @@
           "time": "6:30 PM, All Ages, Backstage"
         },
         {
+          "description": "Modulogix w/ Waterflyy and Cyclop Toad ",
+          "eventLink": "http://www.thefaroutaustin.com/eventDetails.html#-NaDsYJx6Jr3MXFGUF-8",
+          "venue": {
+            "title": "The Far Out Lounge and Stage",
+            "href": "http://www.thefaroutaustin.com/",
+            "map": "https://g.page/The-Far-Out?share"
+          }
+        },
+        {
+          "description": "Rusty Dusty (Residency) with Specific Thing, Alex Riegelman + Friends ",
+          "eventLink": "https://texashotelvegas.com/calendar/",
+          "venue": {
+            "title": "Hotel Vegas",
+            "href": "https://texashotelvegas.com/",
+            "map": "https://goo.gl/maps/XyjbbCzRW7R9zDtNA"
+          },
+          "time": "9:00 pm"
+        },
+        {
+          "description": "The Cannibals / Emma Goldman Sachs (OK) / Mommy Brain ",
+          "eventLink": "https://www.facebook.com/events/1032287931031258/",
+          "venue": {
+            "title": "Chess Club",
+            "href": "https://chessclubaustin.com/",
+            "map": "https://goo.gl/maps/2Kr41wy1Lf9W5ztG6"
+          }
+        },
+        {
+          "description": "The Revelators ",
+          "eventLink": "https://events.timely.fun/74avt53i/event/76805138/20230808183000",
+          "venue": {
+            "title": "Continental Club",
+            "href": "https://continentalclub.com/",
+            "map": "https://goo.gl/maps/vggDYwnwCkmS1NUd8"
+          },
+          "time": "6:30pm"
+        },
+        {
+          "description": "Van Jackson ",
+          "eventLink": "https://events.timely.fun/74avt53i/event/76827055/20230808220000",
+          "venue": {
+            "title": "Continental Club",
+            "href": "https://continentalclub.com/",
+            "map": "https://goo.gl/maps/vggDYwnwCkmS1NUd8"
+          },
+          "time": "10:00pm"
+        },
+        {
           "description": "World Peace, Terror Cell Unit, Fleshripper, Interior One ",
           "eventLink": "https://mohawkaustin.com/event/?id=532452769779165451",
           "venue": {
@@ -2514,6 +1476,16 @@
       "date": "Wednesday, August 9th 2023",
       "shows": [
         {
+          "description": "Allisen & the Wy’s Guys ",
+          "eventLink": "https://events.timely.fun/74avt53i/event/72151818/20230809183000",
+          "venue": {
+            "title": "Continental Club",
+            "href": "https://continentalclub.com/",
+            "map": "https://goo.gl/maps/vggDYwnwCkmS1NUd8"
+          },
+          "time": "6:30pm"
+        },
+        {
           "description": "Art's & Quack's: Floral Arrangement Class with Sisters in Bloom ",
           "eventLink": "https://soundspaceatx.com/event/arts-quacks-floral-arrangement-class-with-sisters-in-bloom/",
           "venue": {
@@ -2521,6 +1493,16 @@
             "href": "https://soundspaceatx.com/",
             "map": "https://goo.gl/maps/F3cZXGNfJp4GrZDx9"
           }
+        },
+        {
+          "description": "DIE MART, DEAD TRAMPS, GODOT (Denton) ",
+          "eventLink": "https://texashotelvegas.com/calendar/",
+          "venue": {
+            "title": "Hotel Vegas",
+            "href": "https://texashotelvegas.com/",
+            "map": "https://goo.gl/maps/XyjbbCzRW7R9zDtNA"
+          },
+          "time": "9:00 pm"
         },
         {
           "description": "Foam, Neapolitan, Chico Selfie (kmet) ",
@@ -2560,6 +1542,15 @@
           "time": "8:00 PM"
         },
         {
+          "description": "Queer To Tell: Austin ",
+          "eventLink": "https://soundspaceatx.com/event/queer-to-tell-austin/",
+          "venue": {
+            "title": "Soundspace At Captain Quack's",
+            "href": "https://soundspaceatx.com/",
+            "map": "https://goo.gl/maps/F3cZXGNfJp4GrZDx9"
+          }
+        },
+        {
           "description": "Robin Mordecai ",
           "eventLink": "https://www.eventbrite.com/e/robin-mordecai-tickets-678980066657?aff=ebdsoporgprofile",
           "venue": {
@@ -2580,6 +1571,15 @@
           "time": "10:00pm"
         },
         {
+          "description": "Tabernacle ",
+          "eventLink": "https://antonesnightclub.com/tm-event/confucius-jones-private-atx-presents-ernest-evans-sr/",
+          "venue": {
+            "title": "Antone's",
+            "href": "https://www.antonesnightclub.com/",
+            "map": "https://goo.gl/maps/Qay1CvGbucGWX8b29"
+          }
+        },
+        {
           "description": "The Moeller Brothers ",
           "eventLink": "https://events.timely.fun/r5bk3h1a/event/69403366/20230809183000",
           "venue": {
@@ -2598,6 +1598,16 @@
             "map": "https://g.page/TheABGB?share"
           },
           "time": "7PM"
+        },
+        {
+          "description": "William Harries Graham, Jon Dee Graham, JéTexas ",
+          "eventLink": "https://events.timely.fun/74avt53i/event/76827051/20230809213000",
+          "venue": {
+            "title": "Continental Club",
+            "href": "https://continentalclub.com/",
+            "map": "https://goo.gl/maps/vggDYwnwCkmS1NUd8"
+          },
+          "time": "9:30pm"
         }
       ]
     },
@@ -2606,6 +1616,26 @@
       "date": "Thursday, August 10th 2023",
       "shows": [
         {
+          "description": "Barfield, The Tyrant ",
+          "eventLink": "https://events.timely.fun/74avt53i/event/69402945/20230810223000",
+          "venue": {
+            "title": "Continental Club",
+            "href": "https://continentalclub.com/",
+            "map": "https://goo.gl/maps/vggDYwnwCkmS1NUd8"
+          },
+          "time": "10:30pm"
+        },
+        {
+          "description": "Casper Rawls ",
+          "eventLink": "https://events.timely.fun/74avt53i/event/69402828/20230810183000",
+          "venue": {
+            "title": "Continental Club",
+            "href": "https://continentalclub.com/",
+            "map": "https://goo.gl/maps/vggDYwnwCkmS1NUd8"
+          },
+          "time": "6:30pm"
+        },
+        {
           "description": "EXCELLENCE! with Monica Monae Davenport, Coach Bunz B, Kino Kino, Beau Elliot, Moxie, Venus Rising, Alexander the Great, Joselyn Breezy & DJ RVBY KNIGHT (9PM) ",
           "eventLink": "https://cheerupcharlies.com/event/8-10-excellence-with-monica-monae-davenport-coach-bunz-b-kino-kino-beau-elliot-moxie-venus-rising-alexander-the-great-joselyn-breezy-dj-rvby-knight-9pm/",
           "venue": {
@@ -2613,6 +1643,16 @@
             "href": "http://cheerupcharlies.com/",
             "map": "https://goo.gl/maps/8APC6NBeC5AN3Te27"
           }
+        },
+        {
+          "description": "Her Modern Orchestra, Hot Whips, Bicycle Boy ",
+          "eventLink": "https://mohawkaustin.com/event/?id=532452770115627794",
+          "venue": {
+            "title": "Mohawk",
+            "href": "http://www.mohawkaustin.com/",
+            "map": "https://goo.gl/maps/WpAmaWKfMwZV4eTGA"
+          },
+          "time": "8pm, Indoor, All Ages"
         },
         {
           "description": "In the Jade Room: Mel & James ",
@@ -2625,6 +1665,15 @@
           "time": "10:00pm"
         },
         {
+          "description": "Jonas Wilson, Nathan Harlan, A. Sinclair, and Trumpeter Swan ",
+          "eventLink": "https://link.dice.fm/i8de7d9350b3?pid=b8e3d821",
+          "venue": {
+            "title": "13th Floor",
+            "href": "https://the13thflooraustin.com/",
+            "map": "https://goo.gl/maps/ABwAaj128YbuhQLcA"
+          }
+        },
+        {
           "description": "Magical Mystical Michael ",
           "eventLink": "https://soundspaceatx.com/event/magical-mystical-michael/",
           "venue": {
@@ -2632,6 +1681,16 @@
             "href": "https://soundspaceatx.com/",
             "map": "https://goo.gl/maps/F3cZXGNfJp4GrZDx9"
           }
+        },
+        {
+          "description": "Otis Wilkins, Lady Dan ",
+          "eventLink": "https://events.timely.fun/r5bk3h1a/event/76835703/20230810220000",
+          "venue": {
+            "title": "C-Boy’s Heart & Soul",
+            "href": "https://www.cboys.com/",
+            "map": "https://goo.gl/maps/mvL9kxoJ8nr7AVzn6"
+          },
+          "time": "10:00pm"
         },
         {
           "description": "Patrice Pike ",
@@ -2698,6 +1757,16 @@
           "time": "6:00 PM, All Ages"
         },
         {
+          "description": "ATX Pride Kick-Off Party with Vixens of Volstead After Dark, P1nkstar, Caleb de Casper + More ",
+          "eventLink": "https://texashotelvegas.com/calendar/",
+          "venue": {
+            "title": "Hotel Vegas",
+            "href": "https://texashotelvegas.com/",
+            "map": "https://goo.gl/maps/XyjbbCzRW7R9zDtNA"
+          },
+          "time": "8:00 pm"
+        },
+        {
           "description": "Britt Daniel & Jo Alice w/ Andrew Cashen and Very Special Guest John Doe ",
           "eventLink": "https://antonesnightclub.com/tm-event/britt-daniel-jo-alice-w-andrew-cashen-and-special-guest-john-doe/",
           "venue": {
@@ -2732,6 +1801,25 @@
             "href": "http://www.swandiveaustin.com/",
             "map": "https://goo.gl/maps/z6yZF72BKLEgRSXr8"
           }
+        },
+        {
+          "description": "Half Dream single release w/Lady Chops &The Goddamn Jam & Small Engine Fire ",
+          "eventLink": "https://soundspaceatx.com/event/half-dream-single-release-w-lady-chops-the-goddamn-jam-small-engine-fire/",
+          "venue": {
+            "title": "Soundspace At Captain Quack's",
+            "href": "https://soundspaceatx.com/",
+            "map": "https://goo.gl/maps/F3cZXGNfJp4GrZDx9"
+          }
+        },
+        {
+          "description": "Hannah Dasher,cre Mule ",
+          "eventLink": "https://events.timely.fun/74avt53i/event/76565698/20230811220000",
+          "venue": {
+            "title": "Continental Club",
+            "href": "https://continentalclub.com/",
+            "map": "https://goo.gl/maps/vggDYwnwCkmS1NUd8"
+          },
+          "time": "10:00pm"
         },
         {
           "description": "Henri Herbert ",
@@ -2781,6 +1869,15 @@
           "time": "8:00 PM"
         },
         {
+          "description": "MOVED TO SCOOT INN: Ocean Alley ",
+          "eventLink": "https://antonesnightclub.com/tm-event/ocean-alley/",
+          "venue": {
+            "title": "Antone's",
+            "href": "https://www.antonesnightclub.com/",
+            "map": "https://goo.gl/maps/Qay1CvGbucGWX8b29"
+          }
+        },
+        {
           "description": "Ocean Alley with JUICE ",
           "eventLink": "https://scootinnaustin.com/calendar/ocean-alley",
           "venue": {
@@ -2789,6 +1886,24 @@
             "map": "https://goo.gl/maps/hCtpwCr62H4fY4pR9"
           },
           "time": "7:00 PM"
+        },
+        {
+          "description": "Olive Vox, Caroline Carr, Grocery Bag, and Slurp the World ",
+          "eventLink": "https://link.dice.fm/Ge28cf363ddf?pid=b8e3d821",
+          "venue": {
+            "title": "13th Floor",
+            "href": "https://the13thflooraustin.com/",
+            "map": "https://goo.gl/maps/ABwAaj128YbuhQLcA"
+          }
+        },
+        {
+          "description": "Picklestock Day featuring Moraco, Royal Space Chimps, Sorry About You Unicorn Problem, Hellcat, Boundpreaker, Dave and the Bottelneck, American Shit Storm, Despero ",
+          "eventLink": "https://www.facebook.com/events/216165047438590",
+          "venue": {
+            "title": "Kick Butt Coffee",
+            "href": "https://www.kickbuttcoffee.com/"
+          },
+          "time": "6:00 PM, All Ages"
         },
         {
           "description": "Psychic Love Child (Residency) / Slomo Drags / Cheeky Orange ",
@@ -2819,6 +1934,16 @@
           }
         },
         {
+          "description": "SqueezeBox Bandits ",
+          "eventLink": "https://www.eventbrite.com/e/squeezebox-bandits-tickets-685120452717?aff=ebdsoporgprofile",
+          "venue": {
+            "title": "Saxon Pub",
+            "href": "https://www.thesaxonpub.com/",
+            "map": "https://goo.gl/maps/JTFBunRPYJ6fd1dK6"
+          },
+          "time": "10:00 PM"
+        },
+        {
           "description": "Starving Wolves, The Oxys, Contakt, Pipe ",
           "eventLink": "https://mohawkaustin.com/event/?id=532452770018061959",
           "venue": {
@@ -2837,6 +1962,16 @@
             "map": "https://goo.gl/maps/mvL9kxoJ8nr7AVzn6"
           },
           "time": "10:00pm"
+        },
+        {
+          "description": "The Blues Specialists ",
+          "eventLink": "https://events.timely.fun/74avt53i/event/69402810/20230811183000",
+          "venue": {
+            "title": "Continental Club",
+            "href": "https://continentalclub.com/",
+            "map": "https://goo.gl/maps/vggDYwnwCkmS1NUd8"
+          },
+          "time": "6:30pm"
         },
         {
           "description": "The Offspring ",
@@ -2892,6 +2027,16 @@
           }
         },
         {
+          "description": "Braedon Barnhill ",
+          "eventLink": "https://www.eventbrite.com/e/braedon-barnhill-tickets-686761942457?aff=ebdsoporgprofile",
+          "venue": {
+            "title": "Saxon Pub",
+            "href": "https://www.thesaxonpub.com/",
+            "map": "https://goo.gl/maps/JTFBunRPYJ6fd1dK6"
+          },
+          "time": "10:00 PM"
+        },
+        {
           "description": "Cari Hutson and Good Company ",
           "eventLink": "https://www.eventbrite.com/e/cari-hutson-and-good-company-tickets-677686497557?aff=ebdsoporgprofile",
           "venue": {
@@ -2929,6 +2074,16 @@
           }
         },
         {
+          "description": "Gravess, Sad Cell, Bloom Dream, Herlovebeheadsdaisies ",
+          "eventLink": "https://mohawkaustin.com/event/?id=532452770094702452",
+          "venue": {
+            "title": "Mohawk",
+            "href": "http://www.mohawkaustin.com/",
+            "map": "https://goo.gl/maps/WpAmaWKfMwZV4eTGA"
+          },
+          "time": "8pm, Indoor, All Ages"
+        },
+        {
           "description": "MAJOR GOLD ",
           "eventLink": "https://theabgb.com/facebook-event/major-gold-2/",
           "venue": {
@@ -2948,6 +2103,25 @@
           }
         },
         {
+          "description": "Saturday Night Swing with Rent Party ",
+          "eventLink": "https://soundspaceatx.com/event/saturday-night-swing-with-rent-party/",
+          "venue": {
+            "title": "Soundspace At Captain Quack's",
+            "href": "https://soundspaceatx.com/",
+            "map": "https://goo.gl/maps/F3cZXGNfJp4GrZDx9"
+          }
+        },
+        {
+          "description": "Seth James ",
+          "eventLink": "https://events.timely.fun/74avt53i/event/76716444/20230812223000",
+          "venue": {
+            "title": "Continental Club",
+            "href": "https://continentalclub.com/",
+            "map": "https://goo.gl/maps/vggDYwnwCkmS1NUd8"
+          },
+          "time": "10:30pm"
+        },
+        {
           "description": "SugaRee & Cold Sweat ",
           "eventLink": "https://events.timely.fun/r5bk3h1a/event/76640880/20230812220000",
           "venue": {
@@ -2965,6 +2139,16 @@
             "href": "https://www.antonesnightclub.com/",
             "map": "https://goo.gl/maps/Qay1CvGbucGWX8b29"
           }
+        },
+        {
+          "description": "Ted Roddy & The King Conjure Orchestra’s Memorial Tribute to The King, w/Marti Brom + Rosie and the Rattleshakes ",
+          "eventLink": "https://events.timely.fun/74avt53i/event/76716442/20230812190000",
+          "venue": {
+            "title": "Continental Club",
+            "href": "https://continentalclub.com/",
+            "map": "https://goo.gl/maps/vggDYwnwCkmS1NUd8"
+          },
+          "time": "7:00pm"
         },
         {
           "description": "The Whiffs (KC), Crocodile Tears, Cast of Thousands, Broken Gold ",
@@ -3040,6 +2224,16 @@
           }
         },
         {
+          "description": "Heybale! ",
+          "eventLink": "https://events.timely.fun/74avt53i/event/69402816/20230813183000",
+          "venue": {
+            "title": "Continental Club",
+            "href": "https://continentalclub.com/",
+            "map": "https://goo.gl/maps/vggDYwnwCkmS1NUd8"
+          },
+          "time": "6:30pm"
+        },
+        {
           "description": "Imperial Starlighters ",
           "eventLink": "https://events.timely.fun/r5bk3h1a/event/69403260/20230813193000",
           "venue": {
@@ -3048,6 +2242,25 @@
             "map": "https://goo.gl/maps/mvL9kxoJ8nr7AVzn6"
           },
           "time": "7:30pm"
+        },
+        {
+          "description": "Los Cogelones (MX), Gran Moreno, Eterno Scroll ",
+          "eventLink": "https://www.prekindle.com/event/88237-the-electric-church-presents-los-cogelones-mx-austin",
+          "venue": {
+            "title": "The Electric Church",
+            "href": "https://www.instagram.com/the.electric.church/"
+          },
+          "time": "8:00 PM, 18+"
+        },
+        {
+          "description": "Marshall Hood ",
+          "eventLink": "https://events.timely.fun/74avt53i/event/69402815/20230813143000",
+          "venue": {
+            "title": "Continental Club",
+            "href": "https://continentalclub.com/",
+            "map": "https://goo.gl/maps/vggDYwnwCkmS1NUd8"
+          },
+          "time": "2:30pm"
         },
         {
           "description": "Mike & the BurnAlls! ",
@@ -3217,6 +2430,26 @@
           }
         },
         {
+          "description": "Open0, The Nightowls ",
+          "eventLink": "https://events.timely.fun/r5bk3h1a/event/76782174/20230815213000",
+          "venue": {
+            "title": "C-Boy’s Heart & Soul",
+            "href": "https://www.cboys.com/",
+            "map": "https://goo.gl/maps/mvL9kxoJ8nr7AVzn6"
+          },
+          "time": "9:30pm"
+        },
+        {
+          "description": "Rusty Dusty (Residency) with Loteria & Slomo Drags ",
+          "eventLink": "https://texashotelvegas.com/calendar/",
+          "venue": {
+            "title": "Hotel Vegas",
+            "href": "https://texashotelvegas.com/",
+            "map": "https://goo.gl/maps/XyjbbCzRW7R9zDtNA"
+          },
+          "time": "9:00 pm"
+        },
+        {
           "description": "Sister Golden Hair ",
           "eventLink": "https://www.eventbrite.com/e/sister-golden-hair-tickets-679119764497?aff=ebdsoporgprofile",
           "venue": {
@@ -3234,16 +2467,6 @@
             "href": "https://moodycenteratx.com/",
             "map": "https://goo.gl/maps/2KtqAFQwq7rpRHJF8"
           }
-        },
-        {
-          "description": "TBA, The Nightowls ",
-          "eventLink": "https://events.timely.fun/r5bk3h1a/event/76782174/20230815213000",
-          "venue": {
-            "title": "C-Boy’s Heart & Soul",
-            "href": "https://www.cboys.com/",
-            "map": "https://goo.gl/maps/mvL9kxoJ8nr7AVzn6"
-          },
-          "time": "9:30pm"
         }
       ]
     },
@@ -3261,7 +2484,7 @@
           }
         },
         {
-          "description": "CupcakKe ",
+          "description": "CupcakKe w/ Lynn, Ladi Earth, Shirt Off Fe, and DJ Beastie ",
           "eventLink": "https://antonesnightclub.com/tm-event/cupcakke/",
           "venue": {
             "title": "Antone's",
@@ -3354,6 +2577,15 @@
           }
         },
         {
+          "description": "Florist & Skullcrusher w/ Adelyn Strei ",
+          "eventLink": "https://wl.seetickets.us/event/Florist-Skullcrusher/548647?afflky=ResoundPresents",
+          "venue": {
+            "title": "Parish",
+            "href": "https://www.theparishaustin.com/",
+            "map": "https://goo.gl/maps/zjueu2H8J3Uwb1Dd7"
+          }
+        },
+        {
           "description": "GIRLS ROCK AUSTIN ",
           "eventLink": "https://theabgb.com/facebook-event/girls-rock-austin-4/",
           "venue": {
@@ -3393,6 +2625,16 @@
           "time": "10:00 PM"
         },
         {
+          "description": "Otis Wilkins, Foxtales ",
+          "eventLink": "https://events.timely.fun/r5bk3h1a/event/76835710/20230817220000",
+          "venue": {
+            "title": "C-Boy’s Heart & Soul",
+            "href": "https://www.cboys.com/",
+            "map": "https://goo.gl/maps/mvL9kxoJ8nr7AVzn6"
+          },
+          "time": "10:00pm"
+        },
+        {
           "description": "Patrice Pike ",
           "eventLink": "https://www.eventbrite.com/e/patrice-pike-tickets-678978933267?aff=ebdsoporgprofile",
           "venue": {
@@ -3413,7 +2655,7 @@
           "time": "6:30pm"
         },
         {
-          "description": "Sa-Roc (of Rhymesayers) – Talk To Me Nice Tour ",
+          "description": "Sa-Roc (of Rhymesayers) – Talk To Me Nice Tour w/ Nubia Emmon and Qiyah Abdul ",
           "eventLink": "https://wl.seetickets.us/event/SA-ROC/557914?afflky=EmpireControlRoom",
           "venue": {
             "title": "Empire Control Room & Garage",
@@ -3448,6 +2690,16 @@
             "href": "https://3tenaustin.com/",
             "map": "https://goo.gl/maps/x5RB7U6jfaCN7ybx6"
           }
+        },
+        {
+          "description": "VEGAS ON THE SPOT: Grace Womack & Pretty Pennies ",
+          "eventLink": "https://texashotelvegas.com/calendar/",
+          "venue": {
+            "title": "Hotel Vegas",
+            "href": "https://texashotelvegas.com/",
+            "map": "https://goo.gl/maps/XyjbbCzRW7R9zDtNA"
+          },
+          "time": "6:30 pm"
         }
       ]
     },
@@ -3455,6 +2707,15 @@
       "isodate": "20230818",
       "date": "Friday, August 18th 2023",
       "shows": [
+        {
+          "description": "A Giant Dog “Bite” Album Release ",
+          "eventLink": "https://wl.seetickets.us/event/A-GiantDog/556120?afflky=ResoundPresents",
+          "venue": {
+            "title": "Parish",
+            "href": "https://www.theparishaustin.com/",
+            "map": "https://goo.gl/maps/zjueu2H8J3Uwb1Dd7"
+          }
+        },
         {
           "description": "Bridey Murphy w/Bad Luck Penny & Tender Wolf ",
           "eventLink": "https://soundspaceatx.com/event/bridey-murphy-w-bad-luck-penny-tender-wolf/",
@@ -3473,6 +2734,24 @@
             "map": "https://goo.gl/maps/JTFBunRPYJ6fd1dK6"
           },
           "time": "10:00 PM"
+        },
+        {
+          "description": "Deep Cover / Ozone / Since My Beloved / Maldosa ",
+          "eventLink": "https://www.facebook.com/events/824473472728848",
+          "venue": {
+            "title": "Chess Club",
+            "href": "https://chessclubaustin.com/",
+            "map": "https://goo.gl/maps/2Kr41wy1Lf9W5ztG6"
+          }
+        },
+        {
+          "description": "Early Grave, Gasbath, Diamond Denim ",
+          "eventLink": "https://www.facebook.com/events/2740341716118065",
+          "venue": {
+            "title": "Kick Butt Coffee",
+            "href": "https://www.kickbuttcoffee.com/"
+          },
+          "time": "8:00 PM, All Ages"
         },
         {
           "description": "Electric Feels, Indie Rock + Electronic Dance Party ",
@@ -3504,6 +2783,15 @@
           "time": "6:30pm"
         },
         {
+          "description": "Homemade Bangs, Gumma, Wezmer, Window Shop ",
+          "eventLink": "https://www.eventbrite.com/e/homemade-bangs-gumma-wezmer-window-shop-tickets-685096390747?aff=oddtdtcreator",
+          "venue": {
+            "title": "Swan Dive",
+            "href": "http://www.swandiveaustin.com/",
+            "map": "https://goo.gl/maps/z6yZF72BKLEgRSXr8"
+          }
+        },
+        {
           "description": "In the Jade Room: DISCO PARTY w/DJ Kidsuira ",
           "eventLink": "https://events.timely.fun/r5bk3h1a/event/76559246/20230818220000",
           "venue": {
@@ -3512,6 +2800,24 @@
             "map": "https://goo.gl/maps/mvL9kxoJ8nr7AVzn6"
           },
           "time": "10:00pm"
+        },
+        {
+          "description": "Los Negros Pajaros del Adiós ",
+          "eventLink": "https://eventvesta.com/events/45475/t/tickets",
+          "venue": {
+            "title": "The Chambers Theatre"
+          },
+          "time": "8:00 PM, All Ages"
+        },
+        {
+          "description": "Pleasure Venom, EXOTIC FRUITICA (Album Release), Telecom ",
+          "eventLink": "https://texashotelvegas.com/calendar/",
+          "venue": {
+            "title": "Hotel Vegas",
+            "href": "https://texashotelvegas.com/",
+            "map": "https://goo.gl/maps/XyjbbCzRW7R9zDtNA"
+          },
+          "time": "9:00 pm"
         },
         {
           "description": "Psychic Love Child (Residency) / Geranium Drive / Lord Friday the ",
@@ -3572,15 +2878,6 @@
           "time": "10:30pm"
         },
         {
-          "description": "The Damn Torpedoes: Tribute to Tom Petty w/ This Is It ",
-          "eventLink": "https://antonesnightclub.com/tm-event/the-damn-torpedoes-tribute-to-tom-petty-and-the-heartbreakers/",
-          "venue": {
-            "title": "Antone's",
-            "href": "https://www.antonesnightclub.com/",
-            "map": "https://goo.gl/maps/Qay1CvGbucGWX8b29"
-          }
-        },
-        {
           "description": "THE JERRELLS ",
           "eventLink": "https://theabgb.com/facebook-event/the-jerrells-3/",
           "venue": {
@@ -3608,6 +2905,16 @@
             "map": "https://goo.gl/maps/c3yDcZUyAic5fHn79"
           },
           "time": "7:00pm"
+        },
+        {
+          "description": "VEGAS ON THE SPOT: Montaz & Swellin ",
+          "eventLink": "https://texashotelvegas.com/calendar/",
+          "venue": {
+            "title": "Hotel Vegas",
+            "href": "https://texashotelvegas.com/",
+            "map": "https://goo.gl/maps/XyjbbCzRW7R9zDtNA"
+          },
+          "time": "6:30 pm"
         },
         {
           "description": "West, Daydream Twins, Knox Write, Sounds By Moonbby ",
@@ -3709,6 +3016,15 @@
           "time": "8:00 PM"
         },
         {
+          "description": "PrisMagick with La Morra Lisa, Evah Destruction, Banshee Rose, Gothess Jasmine, Ginger Snaps, Good Lucifer, Brigitte Bandit, Eva Inez, Rosalind Hussell, Liz Dexia, Jack Rabid, Embryicially & DJ Turito (10PM) ",
+          "eventLink": "https://cheerupcharlies.com/event/8-19-prismagick-with-la-morra-lisa-evah-destruction-banshee-rose-gothess-jasmine-ginger-snaps-good-lucifer-brigitte-bandit-eva-inez-rosalind-hussell-liz-dexia-jack-rabid-embry-0fficially/",
+          "venue": {
+            "title": "Cheer Up Charlies",
+            "href": "http://cheerupcharlies.com/",
+            "map": "https://goo.gl/maps/8APC6NBeC5AN3Te27"
+          }
+        },
+        {
           "description": "Robynn Shayne ",
           "eventLink": "https://www.eventbrite.com/e/robynn-shayne-tickets-676368354957?aff=ebdsoporgprofile",
           "venue": {
@@ -3717,6 +3033,15 @@
             "map": "https://goo.gl/maps/JTFBunRPYJ6fd1dK6"
           },
           "time": "6:00 PM"
+        },
+        {
+          "description": "Ruthie Craft, The Klinks, Tough on Fridays, RAVS + the Akrylx ",
+          "eventLink": "https://www.eventbrite.com/e/ruthie-craft-the-klinks-tough-on-fridays-ravs-the-akrylx-tickets-680842096037?aff=oddtdtcreator",
+          "venue": {
+            "title": "Swan Dive",
+            "href": "http://www.swandiveaustin.com/",
+            "map": "https://goo.gl/maps/z6yZF72BKLEgRSXr8"
+          }
         },
         {
           "description": "Soulman Sam Evans & The SMS Band ",
@@ -3810,6 +3135,26 @@
             "href": "https://www.stubbsaustin.com/",
             "map": "https://goo.gl/maps/YP4HpizaisBNToKh9"
           }
+        },
+        {
+          "description": "H.P. Lovecraft's Birthday Party, Cedars, Maddie & the Dead Names, Everything Is Temporary, Safe Haven ",
+          "eventLink": "https://mohawkaustin.com/event/?id=532452770101687874",
+          "venue": {
+            "title": "Mohawk",
+            "href": "http://www.mohawkaustin.com/",
+            "map": "https://goo.gl/maps/WpAmaWKfMwZV4eTGA"
+          },
+          "time": "7pm, Indoor, All Ages"
+        },
+        {
+          "description": "Hex Boyfriend, Half Dream, Sunrosa ",
+          "eventLink": "https://texashotelvegas.com/calendar/",
+          "venue": {
+            "title": "Hotel Vegas",
+            "href": "https://texashotelvegas.com/",
+            "map": "https://goo.gl/maps/XyjbbCzRW7R9zDtNA"
+          },
+          "time": "9:00 pm"
         },
         {
           "description": "Hilary York ",
@@ -3999,6 +3344,15 @@
           "time": "6:30 PM, All Ages, Backstage"
         },
         {
+          "description": "Goldie Pipes ",
+          "eventLink": "https://antonesnightclub.com/tm-event/goldie-pipes/",
+          "venue": {
+            "title": "Antone's",
+            "href": "https://www.antonesnightclub.com/",
+            "map": "https://goo.gl/maps/Qay1CvGbucGWX8b29"
+          }
+        },
+        {
           "description": "James Speer, The Nightowls ",
           "eventLink": "https://events.timely.fun/r5bk3h1a/event/76529291/20230822213000",
           "venue": {
@@ -4016,6 +3370,16 @@
             "href": "https://acl-live.com/",
             "map": "https://goo.gl/maps/sv95TT6mCFterhwJA"
           }
+        },
+        {
+          "description": "Rusty Dusty (Residency) with Luxury TV & The Juniper Berries ",
+          "eventLink": "https://texashotelvegas.com/calendar/",
+          "venue": {
+            "title": "Hotel Vegas",
+            "href": "https://texashotelvegas.com/",
+            "map": "https://goo.gl/maps/XyjbbCzRW7R9zDtNA"
+          },
+          "time": "9:00 pm"
         }
       ]
     },
@@ -4041,6 +3405,16 @@
             "map": "https://goo.gl/maps/JTFBunRPYJ6fd1dK6"
           },
           "time": "10:00 PM"
+        },
+        {
+          "description": "EVNTYD, The Cuckoos, Witches Exist ",
+          "eventLink": "https://mohawkaustin.com/event/?id=532452770094709718",
+          "venue": {
+            "title": "Mohawk",
+            "href": "http://www.mohawkaustin.com/",
+            "map": "https://goo.gl/maps/WpAmaWKfMwZV4eTGA"
+          },
+          "time": "8pm, Indoor, All Ages"
         },
         {
           "description": "Ice Nine Kills: FEAR THE PREMIERE TOUR ",
@@ -4138,6 +3512,15 @@
           "time": "10:00pm"
         },
         {
+          "description": "Kairos, Honey Bunny, Denim Haircut, Sol Y Motion ",
+          "eventLink": "https://www.eventbrite.com/e/kairos-honey-bunny-denim-haircut-sol-y-motion-tickets-687250052407?aff=oddtdtcreator",
+          "venue": {
+            "title": "Swan Dive",
+            "href": "http://www.swandiveaustin.com/",
+            "map": "https://goo.gl/maps/z6yZF72BKLEgRSXr8"
+          }
+        },
+        {
           "description": "KUTX PRESENTS:ears of Son Volt: Songs of Trace and Doug Sahm ",
           "eventLink": "https://scootinnaustin.com/calendar/kutx-presents-28-years-of-son-volt-songs-of-trace-and-doug-sahm",
           "venue": {
@@ -4148,6 +3531,16 @@
           "time": "6:30 PM"
         },
         {
+          "description": "Otis Wilkins, The Mammoths ",
+          "eventLink": "https://events.timely.fun/r5bk3h1a/event/76835725/20230824220000",
+          "venue": {
+            "title": "C-Boy’s Heart & Soul",
+            "href": "https://www.cboys.com/",
+            "map": "https://goo.gl/maps/mvL9kxoJ8nr7AVzn6"
+          },
+          "time": "10:00pm"
+        },
+        {
           "description": "Patrice Pike ",
           "eventLink": "https://www.eventbrite.com/e/patrice-pike-tickets-678979344497?aff=ebdsoporgprofile",
           "venue": {
@@ -4156,6 +3549,15 @@
             "map": "https://goo.gl/maps/JTFBunRPYJ6fd1dK6"
           },
           "time": "8:00 PM"
+        },
+        {
+          "description": "Phaeleh ",
+          "eventLink": "https://www.seetickets.us/event/Phaeleh/559361",
+          "venue": {
+            "title": "Parish",
+            "href": "https://www.theparishaustin.com/",
+            "map": "https://goo.gl/maps/zjueu2H8J3Uwb1Dd7"
+          }
         },
         {
           "description": "Restos ",
@@ -4175,6 +3577,16 @@
             "href": "https://www.antonesnightclub.com/",
             "map": "https://goo.gl/maps/Qay1CvGbucGWX8b29"
           }
+        },
+        {
+          "description": "VEGAS ON THE SPOT: BOOHER & Gilded Lows ",
+          "eventLink": "https://texashotelvegas.com/calendar/",
+          "venue": {
+            "title": "Hotel Vegas",
+            "href": "https://texashotelvegas.com/",
+            "map": "https://goo.gl/maps/XyjbbCzRW7R9zDtNA"
+          },
+          "time": "6:30 pm"
         }
       ]
     },
@@ -4183,12 +3595,31 @@
       "date": "Friday, August 25th 2023",
       "shows": [
         {
+          "description": "Barfield, The Tyrant ",
+          "eventLink": "https://events.timely.fun/r5bk3h1a/event/69403270/20230825220000",
+          "venue": {
+            "title": "C-Boy’s Heart & Soul",
+            "href": "https://www.cboys.com/",
+            "map": "https://goo.gl/maps/mvL9kxoJ8nr7AVzn6"
+          },
+          "time": "10:00pm"
+        },
+        {
           "description": "Bottle Rocket War w/Milk Theory and Guided Meditation Doom Jazz ",
           "eventLink": "https://soundspaceatx.com/event/bottle-rocket-war-w-milk-theory-and-guided-meditation-doom-jazz/",
           "venue": {
             "title": "Soundspace At Captain Quack's",
             "href": "https://soundspaceatx.com/",
             "map": "https://goo.gl/maps/F3cZXGNfJp4GrZDx9"
+          }
+        },
+        {
+          "description": "Bridge Farmers ft. Special Guests ",
+          "eventLink": "https://link.dice.fm/B089249324bc?pid=b8e3d821",
+          "venue": {
+            "title": "13th Floor",
+            "href": "https://the13thflooraustin.com/",
+            "map": "https://goo.gl/maps/ABwAaj128YbuhQLcA"
           }
         },
         {
@@ -4257,6 +3688,15 @@
             "title": "Antone's",
             "href": "https://www.antonesnightclub.com/",
             "map": "https://goo.gl/maps/Qay1CvGbucGWX8b29"
+          }
+        },
+        {
+          "description": "Perfect as Cats (A tribute to The Cure) w/ Lunar Gold and Joseph Salazar ",
+          "eventLink": "https://wl.seetickets.us/event/Perfect-As-Cats/561114?afflky=Parish",
+          "venue": {
+            "title": "Parish",
+            "href": "https://www.theparishaustin.com/",
+            "map": "https://goo.gl/maps/zjueu2H8J3Uwb1Dd7"
           }
         },
         {
@@ -4329,6 +3769,15 @@
       "date": "Saturday, August 26th 2023",
       "shows": [
         {
+          "description": "A Benefit for DJ Chicken George ft. Riders Against the Storm and Blackillac w/ Third Root and Adrian Quesada (Decade of Empire) ",
+          "eventLink": "https://wl.seetickets.us/event/Benefit-for-Chicken-George/561602?afflky=EmpireControlRoom",
+          "venue": {
+            "title": "Empire Control Room & Garage",
+            "href": "http://empireatx.com/",
+            "map": "https://goo.gl/maps/TNmcJw4minmK4NtH6"
+          }
+        },
+        {
           "description": "Bayou City Funk ",
           "eventLink": "https://events.timely.fun/r5bk3h1a/event/69403081/20230826220000",
           "venue": {
@@ -4349,6 +3798,24 @@
           "time": "8pm, Indoor, All Ages"
         },
         {
+          "description": "Euphonia, Dodo, Diptera ",
+          "eventLink": "https://www.eventbrite.com/e/euphonia-dodo-diptera-tickets-686858832257?aff=oddtdtcreator",
+          "venue": {
+            "title": "Swan Dive",
+            "href": "http://www.swandiveaustin.com/",
+            "map": "https://goo.gl/maps/z6yZF72BKLEgRSXr8"
+          }
+        },
+        {
+          "description": "John Wesley Coleman w/ Skloss, Cruel Summer, Shared Walls, and Yard Work! ",
+          "eventLink": "http://www.thefaroutaustin.com/eventDetails.html#-NaIi3TQTdQT4USN8HHZ",
+          "venue": {
+            "title": "The Far Out Lounge and Stage",
+            "href": "http://www.thefaroutaustin.com/",
+            "map": "https://g.page/The-Far-Out?share"
+          }
+        },
+        {
           "description": "Matthew Robinson ",
           "eventLink": "https://events.timely.fun/r5bk3h1a/event/69403306/20230826200000",
           "venue": {
@@ -4367,6 +3834,15 @@
             "map": "https://goo.gl/maps/JTFBunRPYJ6fd1dK6"
           },
           "time": "8:00 PM"
+        },
+        {
+          "description": "Moonshot, Vigilandia, The Roommates, Forget Conformity, Our Last Daze, Stitched Up ",
+          "eventLink": "https://www.facebook.com/events/262419289830146",
+          "venue": {
+            "title": "Kick Butt Coffee",
+            "href": "https://www.kickbuttcoffee.com/"
+          },
+          "time": "7:30 PM, All Ages"
         },
         {
           "description": "Phil Hurley ",
@@ -4398,12 +3874,21 @@
           "time": "8:00 pm"
         },
         {
-          "description": "Soulhat w/ Grackles ",
+          "description": "SOLD OUT: Soulhat w/ Grackles ",
           "eventLink": "https://antonesnightclub.com/tm-event/soulhat-w-grackles/",
           "venue": {
             "title": "Antone's",
             "href": "https://www.antonesnightclub.com/",
             "map": "https://goo.gl/maps/Qay1CvGbucGWX8b29"
+          }
+        },
+        {
+          "description": "Temple of Angels w/ Mujeres Podridas and Touch Girl Apple Blossom ",
+          "eventLink": "https://wl.seetickets.us/event/Temple-ofAngels/551287?afflky=ResoundPresents",
+          "venue": {
+            "title": "Parish",
+            "href": "https://www.theparishaustin.com/",
+            "map": "https://goo.gl/maps/zjueu2H8J3Uwb1Dd7"
           }
         },
         {
@@ -4440,6 +3925,16 @@
       "date": "Sunday, August 27th 2023",
       "shows": [
         {
+          "description": "Back to School ft. Pataphysics, Flyer Club, Fragile Rock ",
+          "eventLink": "https://texashotelvegas.com/calendar/",
+          "venue": {
+            "title": "Hotel Vegas",
+            "href": "https://texashotelvegas.com/",
+            "map": "https://goo.gl/maps/XyjbbCzRW7R9zDtNA"
+          },
+          "time": "9:00 pm"
+        },
+        {
           "description": "Ginny’s Chicken $#!+ Bingo! w/The Derailers ",
           "eventLink": "https://events.timely.fun/r5bk3h1a/event/69403159/20230827153000",
           "venue": {
@@ -4469,6 +3964,15 @@
           "time": "7:30pm"
         },
         {
+          "description": "John Waite ",
+          "eventLink": "https://tickets.austintheatre.org/9228",
+          "venue": {
+            "title": "Paramount Theater",
+            "href": "https://www.austintheatre.org/",
+            "map": "https://goo.gl/maps/mfdK4n3eneGRdEUM7"
+          }
+        },
+        {
           "description": "Kidz Bop ",
           "eventLink": "https://acllive.com/calendar/kidz-bop-82723",
           "venue": {
@@ -4490,6 +3994,15 @@
         {
           "description": "Sunday Jazz Brunch with The Watters ",
           "eventLink": "http://www.thefaroutaustin.com/eventDetails.html#-NL2LDi6csabP4ut3cNi",
+          "venue": {
+            "title": "The Far Out Lounge and Stage",
+            "href": "http://www.thefaroutaustin.com/",
+            "map": "https://g.page/The-Far-Out?share"
+          }
+        },
+        {
+          "description": "The Broken Things w/ The Tr3s Passers and Doctor Disaster ",
+          "eventLink": "http://www.thefaroutaustin.com/eventDetails.html#-NaNPy4OJ-IPBAqdtAjl",
           "venue": {
             "title": "The Far Out Lounge and Stage",
             "href": "http://www.thefaroutaustin.com/",
@@ -4531,6 +4044,16 @@
             "map": "https://goo.gl/maps/mvL9kxoJ8nr7AVzn6"
           },
           "time": "6:30pm"
+        },
+        {
+          "description": "Dream Together ",
+          "eventLink": "https://www.moodyamphitheater.com/events/dream-together",
+          "venue": {
+            "title": "Moody Amphitheater",
+            "href": "https://waterloogreenway.org/events/",
+            "map": "https://goo.gl/maps/pytu6q3SF74GxHMa8"
+          },
+          "time": "9:00am"
         },
         {
           "description": "Flyjack’s Funk and Soul Revival ",
@@ -4654,6 +4177,16 @@
             "href": "https://www.antonesnightclub.com/",
             "map": "https://goo.gl/maps/Qay1CvGbucGWX8b29"
           }
+        },
+        {
+          "description": "Rusty Dusty (Residency) with Tearjerk & Michael Sanders ",
+          "eventLink": "https://texashotelvegas.com/calendar/",
+          "venue": {
+            "title": "Hotel Vegas",
+            "href": "https://texashotelvegas.com/",
+            "map": "https://goo.gl/maps/XyjbbCzRW7R9zDtNA"
+          },
+          "time": "9:00 pm"
         },
         {
           "description": "The Cuckoos, Seven Year Witch, Souls Extolled ",
@@ -4785,6 +4318,16 @@
           "time": "10:00pm"
         },
         {
+          "description": "Otis Wilkins, Jake Lloyd ",
+          "eventLink": "https://events.timely.fun/r5bk3h1a/event/76835761/20230831220000",
+          "venue": {
+            "title": "C-Boy’s Heart & Soul",
+            "href": "https://www.cboys.com/",
+            "map": "https://goo.gl/maps/mvL9kxoJ8nr7AVzn6"
+          },
+          "time": "10:00pm"
+        },
+        {
           "description": "Patrice Pike ",
           "eventLink": "https://www.eventbrite.com/e/patrice-pike-tickets-678979525037?aff=ebdsoporgprofile",
           "venue": {
@@ -4821,6 +4364,16 @@
             "href": "https://the13thflooraustin.com/",
             "map": "https://goo.gl/maps/ABwAaj128YbuhQLcA"
           }
+        },
+        {
+          "description": "VEGAS ON THE SPOT: The Get Lows & Pearl Z ",
+          "eventLink": "https://texashotelvegas.com/calendar/",
+          "venue": {
+            "title": "Hotel Vegas",
+            "href": "https://texashotelvegas.com/",
+            "map": "https://goo.gl/maps/XyjbbCzRW7R9zDtNA"
+          },
+          "time": "6:30 pm"
         }
       ]
     },
@@ -4865,6 +4418,15 @@
             "href": "http://empireatx.com/",
             "map": "https://goo.gl/maps/TNmcJw4minmK4NtH6"
           }
+        },
+        {
+          "description": "Stars At Night Fest 3 Night 1 featuring The Butts, Given A Chance, Mike And Ian’s Side Hustle, Dylan Disaster And Guido Crimes, Popperz, Falling Knives, Stuck On 45, The Royal Space Chimps ",
+          "eventLink": "https://www.facebook.com/events/255552507235754",
+          "venue": {
+            "title": "Kick Butt Coffee",
+            "href": "https://www.kickbuttcoffee.com/"
+          },
+          "time": "6:00 PM, All Ages"
         }
       ]
     },
@@ -4893,6 +4455,34 @@
           "time": "All ages"
         },
         {
+          "description": "Flight by Nothing w/ Danny Bonilla and West ",
+          "eventLink": "https://wl.seetickets.us/event/Flight-By-Nothing/561636?afflky=EmpireControlRoom",
+          "venue": {
+            "title": "Empire Control Room & Garage",
+            "href": "http://empireatx.com/",
+            "map": "https://goo.gl/maps/TNmcJw4minmK4NtH6"
+          }
+        },
+        {
+          "description": "Nik Parr & The Selfless Lovers ",
+          "eventLink": "https://www.eventbrite.com/e/nik-parr-the-selfless-lovers-tickets-685123752587?aff=ebdsoporgprofile",
+          "venue": {
+            "title": "Saxon Pub",
+            "href": "https://www.thesaxonpub.com/",
+            "map": "https://goo.gl/maps/JTFBunRPYJ6fd1dK6"
+          },
+          "time": "10:00 PM"
+        },
+        {
+          "description": "Stars At Night Fest 3 Night 2 featuring Live Another Day, Baseborn, Nothing Lost, 30footFALL, Shifty Advice, Destroy Orbison, Brady Black, Oldie Hawn, Astrogat, OK Robot, The Clastic, Rad Dragon, Splitting Image ",
+          "eventLink": "https://www.facebook.com/events/579629981032746",
+          "venue": {
+            "title": "Kick Butt Coffee",
+            "href": "https://www.kickbuttcoffee.com/"
+          },
+          "time": "1:00 PM, All Ages"
+        },
+        {
           "description": "The Peterson Brothers: Glenn’s Birthday Celebration ",
           "eventLink": "https://antonesnightclub.com/tm-event/the-peterson-brothers/",
           "venue": {
@@ -4908,6 +4498,15 @@
             "title": "Austin City Limits Live at The Moody Theater",
             "href": "https://acl-live.com/",
             "map": "https://goo.gl/maps/sv95TT6mCFterhwJA"
+          }
+        },
+        {
+          "description": "Up Around the Sun ",
+          "eventLink": "https://tickets.austintheatre.org/9952",
+          "venue": {
+            "title": "Paramount Theater",
+            "href": "https://www.austintheatre.org/",
+            "map": "https://goo.gl/maps/mfdK4n3eneGRdEUM7"
           }
         }
       ]
@@ -4941,6 +4540,34 @@
             "title": "Moody Center",
             "href": "https://moodycenteratx.com/",
             "map": "https://goo.gl/maps/2KtqAFQwq7rpRHJF8"
+          }
+        },
+        {
+          "description": "Koningsor / DSGNS / Bay Street / Never Rest ",
+          "eventLink": "https://www.facebook.com/events/1239126653450911",
+          "venue": {
+            "title": "Chess Club",
+            "href": "https://chessclubaustin.com/",
+            "map": "https://goo.gl/maps/2Kr41wy1Lf9W5ztG6"
+          }
+        },
+        {
+          "description": "Sex Mex, Jankem, Bat Lips ",
+          "eventLink": "https://mohawkaustin.com/event/?id=532452770094735631",
+          "venue": {
+            "title": "Mohawk",
+            "href": "http://www.mohawkaustin.com/",
+            "map": "https://goo.gl/maps/WpAmaWKfMwZV4eTGA"
+          },
+          "time": "8pm, Indoor, All Ages"
+        },
+        {
+          "description": "SWANS ",
+          "eventLink": "https://tickets.austintheatre.org/9272",
+          "venue": {
+            "title": "Paramount Theater",
+            "href": "https://www.austintheatre.org/",
+            "map": "https://goo.gl/maps/mfdK4n3eneGRdEUM7"
           }
         }
       ]
@@ -5023,12 +4650,30 @@
           }
         },
         {
+          "description": "Lou Ann Barton and her All-Star Band plus Mike Keller ",
+          "eventLink": "https://antonesnightclub.com/tm-event/lou-ann-barton-and-her-all-star-band-plus-mike-keller-2/",
+          "venue": {
+            "title": "Antone's",
+            "href": "https://www.antonesnightclub.com/",
+            "map": "https://goo.gl/maps/Qay1CvGbucGWX8b29"
+          }
+        },
+        {
           "description": "Sam Smith ",
           "eventLink": "https://moodycenteratx.com/event/sam-smith/",
           "venue": {
             "title": "Moody Center",
             "href": "https://moodycenteratx.com/",
             "map": "https://goo.gl/maps/2KtqAFQwq7rpRHJF8"
+          }
+        },
+        {
+          "description": "Stanley Clarke ",
+          "eventLink": "https://tickets.austintheatre.org/9473",
+          "venue": {
+            "title": "Paramount Theater",
+            "href": "https://www.austintheatre.org/",
+            "map": "https://goo.gl/maps/mfdK4n3eneGRdEUM7"
           }
         },
         {
@@ -5099,6 +4744,15 @@
           "time": "10:00 PM"
         },
         {
+          "description": "Cory Henry ",
+          "eventLink": "https://tickets.austintheatre.org/9903",
+          "venue": {
+            "title": "Paramount Theater",
+            "href": "https://www.austintheatre.org/",
+            "map": "https://goo.gl/maps/mfdK4n3eneGRdEUM7"
+          }
+        },
+        {
           "description": "East Side Kings Festival Kickoff Party ",
           "eventLink": "https://antonesnightclub.com/tm-event/east-side-kings-festival/",
           "venue": {
@@ -5137,6 +4791,15 @@
           }
         },
         {
+          "description": "OFF! ",
+          "eventLink": "https://link.dice.fm/q94efbdc21b2?pid=b8e3d821",
+          "venue": {
+            "title": "13th Floor",
+            "href": "https://the13thflooraustin.com/",
+            "map": "https://goo.gl/maps/ABwAaj128YbuhQLcA"
+          }
+        },
+        {
           "description": "Rod Picott & Jenny Reynolds ",
           "eventLink": "https://soundspaceatx.com/event/rod-picott-jenny-reynolds/",
           "venue": {
@@ -5146,12 +4809,30 @@
           }
         },
         {
-          "description": "Skyrocket ",
+          "description": "Rodney Crowell ",
+          "eventLink": "https://tickets.austintheatre.org/9918",
+          "venue": {
+            "title": "Paramount Theater",
+            "href": "https://www.austintheatre.org/",
+            "map": "https://goo.gl/maps/mfdK4n3eneGRdEUM7"
+          }
+        },
+        {
+          "description": "Skyrocket! ",
           "eventLink": "https://3tenaustin.com/calendar/skyrocket-090823",
           "venue": {
             "title": "3TEN Austin City Limits Live",
             "href": "https://3tenaustin.com/",
             "map": "https://goo.gl/maps/x5RB7U6jfaCN7ybx6"
+          }
+        },
+        {
+          "description": "Take on Me: New WaveParty ",
+          "eventLink": "https://wl.seetickets.us/event/Take-On-Me/561587?afflky=EmpireControlRoom",
+          "venue": {
+            "title": "Empire Control Room & Garage",
+            "href": "http://empireatx.com/",
+            "map": "https://goo.gl/maps/TNmcJw4minmK4NtH6"
           }
         }
       ]
@@ -5188,6 +4869,16 @@
             "href": "https://www.antonesnightclub.com/",
             "map": "https://goo.gl/maps/Qay1CvGbucGWX8b29"
           }
+        },
+        {
+          "description": "Surfbort ",
+          "eventLink": "https://link.dice.fm/Surfbort",
+          "venue": {
+            "title": "Hotel Vegas",
+            "href": "https://texashotelvegas.com/",
+            "map": "https://goo.gl/maps/XyjbbCzRW7R9zDtNA"
+          },
+          "time": "6:00 pm"
         }
       ]
     },
@@ -5222,6 +4913,15 @@
             "title": "Stubb's",
             "href": "https://www.stubbsaustin.com/",
             "map": "https://goo.gl/maps/YP4HpizaisBNToKh9"
+          }
+        },
+        {
+          "description": "Laurel Canyon Band ",
+          "eventLink": "https://tickets.austintheatre.org/9080",
+          "venue": {
+            "title": "Paramount Theater",
+            "href": "https://www.austintheatre.org/",
+            "map": "https://goo.gl/maps/mfdK4n3eneGRdEUM7"
           }
         },
         {
@@ -5304,6 +5004,15 @@
       "date": "Tuesday, September 12th 2023",
       "shows": [
         {
+          "description": "Bit Brigade performs The Legend of Zelda and DuckTales LIVE! With Special Guest Mega Ran ",
+          "eventLink": "http://www.thefaroutaustin.com/eventDetails.html#-NaNZeqwgdPNjWY8Ygbm",
+          "venue": {
+            "title": "The Far Out Lounge and Stage",
+            "href": "http://www.thefaroutaustin.com/",
+            "map": "https://g.page/The-Far-Out?share"
+          }
+        },
+        {
           "description": "Bulldozer, Deceased, Demiser, Ares Kingdom ",
           "eventLink": "https://www.thelostwell.com/",
           "venue": {
@@ -5377,7 +5086,7 @@
           }
         },
         {
-          "description": "City and Colour ",
+          "description": "City and Colour with special guest Jaye Jayle ",
           "eventLink": "https://acllive.com/calendar/city-colour-91323",
           "venue": {
             "title": "Austin City Limits Live at The Moody Theater",
@@ -5420,6 +5129,15 @@
       "isodate": "20230914",
       "date": "Thursday, September 14th 2023",
       "shows": [
+        {
+          "description": "Darden Smith: Who Said You Could Do That? with Sue Foley ",
+          "eventLink": "https://tickets.austintheatre.org/8804",
+          "venue": {
+            "title": "Paramount Theater",
+            "href": "https://www.austintheatre.org/",
+            "map": "https://goo.gl/maps/mfdK4n3eneGRdEUM7"
+          }
+        },
         {
           "description": "Leanne Morgan ",
           "eventLink": "https://acllive.com/calendar/leanne-morgan-091423",
@@ -5474,6 +5192,15 @@
           }
         },
         {
+          "description": "EMSKIII ",
+          "eventLink": "https://www.stubbsaustin.com/concert-listings",
+          "venue": {
+            "title": "Stubb's",
+            "href": "https://www.stubbsaustin.com/",
+            "map": "https://goo.gl/maps/YP4HpizaisBNToKh9"
+          }
+        },
+        {
           "description": "Henri Herbert ",
           "eventLink": "https://events.timely.fun/r5bk3h1a/event/74174081/20230915183000",
           "venue": {
@@ -5509,6 +5236,15 @@
             "title": "Austin City Limits Live at The Moody Theater",
             "href": "https://acl-live.com/",
             "map": "https://goo.gl/maps/sv95TT6mCFterhwJA"
+          }
+        },
+        {
+          "description": "Ray Prim ",
+          "eventLink": "https://tickets.austintheatre.org/9879",
+          "venue": {
+            "title": "Paramount Theater",
+            "href": "https://www.austintheatre.org/",
+            "map": "https://goo.gl/maps/mfdK4n3eneGRdEUM7"
           }
         },
         {
@@ -5601,7 +5337,7 @@
           }
         },
         {
-          "description": "Kari Faux ",
+          "description": "Kari Faux w/ Amarie Gipson ",
           "eventLink": "https://wl.seetickets.us/event/Kari-Faux/557367?afflky=EmpireControlRoom&sp=Z731MI",
           "venue": {
             "title": "Empire Control Room & Garage",
@@ -5630,6 +5366,15 @@
           "time": "All ages"
         },
         {
+          "description": "Lunar Gold ",
+          "eventLink": "https://www.stubbsaustin.com/concert-listings",
+          "venue": {
+            "title": "Stubb's",
+            "href": "https://www.stubbsaustin.com/",
+            "map": "https://goo.gl/maps/YP4HpizaisBNToKh9"
+          }
+        },
+        {
           "description": "Mission UK, The Chameleons, Theatre Of Hate ",
           "eventLink": "http://www.secret-oktober.com/mission/",
           "venue": {
@@ -5637,6 +5382,15 @@
             "href": "http://www.elysiumonline.net/"
           },
           "time": "9:30 PM, 18+"
+        },
+        {
+          "description": "Ron Carter Trio ",
+          "eventLink": "https://tickets.austintheatre.org/9444",
+          "venue": {
+            "title": "Paramount Theater",
+            "href": "https://www.austintheatre.org/",
+            "map": "https://goo.gl/maps/mfdK4n3eneGRdEUM7"
+          }
         },
         {
           "description": "Solicitor, SexCult, TINY ",
@@ -5933,6 +5687,15 @@
           }
         },
         {
+          "description": "Switchfoot ",
+          "eventLink": "https://tickets.austintheatre.org/9502",
+          "venue": {
+            "title": "Paramount Theater",
+            "href": "https://www.austintheatre.org/",
+            "map": "https://goo.gl/maps/mfdK4n3eneGRdEUM7"
+          }
+        },
+        {
           "description": "The Wonder Years, Anxious, Sweet Pill, Action/Adventure ",
           "eventLink": "https://mohawkaustin.com/event/?id=532452769779134483",
           "venue": {
@@ -6036,7 +5799,7 @@
       "date": "Saturday, September 23rd 2023",
       "shows": [
         {
-          "description": "Bahamas ",
+          "description": "Bahamas, Fortunate Ones ",
           "eventLink": "https://mohawkaustin.com/event/?id=532452770018372927",
           "venue": {
             "title": "Mohawk",
@@ -6082,6 +5845,16 @@
           }
         },
         {
+          "description": "Night Beats with Daiistar (Album Release) ",
+          "eventLink": "https://wl.seetickets.us/event/Night-Beats/561761?afflky=ResoundPresents",
+          "venue": {
+            "title": "Hotel Vegas",
+            "href": "https://texashotelvegas.com/",
+            "map": "https://goo.gl/maps/XyjbbCzRW7R9zDtNA"
+          },
+          "time": "8:00 pm"
+        },
+        {
           "description": "Pat Benatar & Neil Giraldo ",
           "eventLink": "https://acllive.com/calendar/pat-benatar-neil-giraldo-092323",
           "venue": {
@@ -6124,6 +5897,15 @@
       "isodate": "20230924",
       "date": "Sunday, September 24th 2023",
       "shows": [
+        {
+          "description": "Daughtry ",
+          "eventLink": "https://tickets.austintheatre.org/9781",
+          "venue": {
+            "title": "Paramount Theater",
+            "href": "https://www.austintheatre.org/",
+            "map": "https://goo.gl/maps/mfdK4n3eneGRdEUM7"
+          }
+        },
         {
           "description": "Emotion Remover ",
           "eventLink": "https://mohawkaustin.com/event/?id=532452769834620206",
@@ -6176,6 +5958,15 @@
             "map": "https://goo.gl/maps/mvL9kxoJ8nr7AVzn6"
           },
           "time": "6:30pm"
+        },
+        {
+          "description": "Ann Wilson of Heart ",
+          "eventLink": "https://tickets.austintheatre.org/9911",
+          "venue": {
+            "title": "Paramount Theater",
+            "href": "https://www.austintheatre.org/",
+            "map": "https://goo.gl/maps/mfdK4n3eneGRdEUM7"
+          }
         },
         {
           "description": "Flyjack’s Funk and Soul Revival ",
@@ -6313,6 +6104,24 @@
           }
         },
         {
+          "description": "Amy Grant Live ",
+          "eventLink": "https://tickets.austintheatre.org/8577",
+          "venue": {
+            "title": "Paramount Theater",
+            "href": "https://www.austintheatre.org/",
+            "map": "https://goo.gl/maps/mfdK4n3eneGRdEUM7"
+          }
+        },
+        {
+          "description": "G FLIP ",
+          "eventLink": "https://cheerupcharlies.com/event/9-27-resound-presents-g-flip/",
+          "venue": {
+            "title": "Cheer Up Charlies",
+            "href": "http://cheerupcharlies.com/",
+            "map": "https://goo.gl/maps/8APC6NBeC5AN3Te27"
+          }
+        },
+        {
           "description": "Kim Petras: Feed The Beast World Tour ",
           "eventLink": "https://www.moodyamphitheater.com/events/kim-petras",
           "venue": {
@@ -6333,7 +6142,7 @@
           "time": "9:00 pm"
         },
         {
-          "description": "The Heavy Heavy at The Far Out Lounge ",
+          "description": "The Heavy Heavy w/ The Mellows at The Far Out Lounge ",
           "eventLink": "http://www.thefaroutaustin.com/eventDetails.html#-NVph9oCVK9xZOCILHcV",
           "venue": {
             "title": "The Far Out Lounge and Stage",
@@ -6401,6 +6210,15 @@
       "date": "Friday, September 29th 2023",
       "shows": [
         {
+          "description": "Corinne Bailey Rae ",
+          "eventLink": "https://tickets.austintheatre.org/9931",
+          "venue": {
+            "title": "Paramount Theater",
+            "href": "https://www.austintheatre.org/",
+            "map": "https://goo.gl/maps/mfdK4n3eneGRdEUM7"
+          }
+        },
+        {
           "description": "Depeche Mode ",
           "eventLink": "https://moodycenteratx.com/event/depeche-mode/",
           "venue": {
@@ -6411,13 +6229,13 @@
         },
         {
           "description": "Divino Niño ",
-          "eventLink": "https://mohawkaustin.com/event/?id=532452770059747221",
+          "eventLink": "https://wl.seetickets.us/event/Divino-Nino/560793?afflky=ResoundPresents",
           "venue": {
-            "title": "Mohawk",
-            "href": "http://www.mohawkaustin.com/",
-            "map": "https://goo.gl/maps/WpAmaWKfMwZV4eTGA"
+            "title": "Hotel Vegas",
+            "href": "https://texashotelvegas.com/",
+            "map": "https://goo.gl/maps/XyjbbCzRW7R9zDtNA"
           },
-          "time": "9pm, Indoor, All Ages"
+          "time": "9:00 pm"
         },
         {
           "description": "Giacomo Turra ",
@@ -6437,6 +6255,15 @@
             "map": "https://goo.gl/maps/mvL9kxoJ8nr7AVzn6"
           },
           "time": "6:30pm"
+        },
+        {
+          "description": "Jessy Lanza ",
+          "eventLink": "https://cheerupcharlies.com/event/9-29-resound-presents-jessy-lanza/",
+          "venue": {
+            "title": "Cheer Up Charlies",
+            "href": "http://cheerupcharlies.com/",
+            "map": "https://goo.gl/maps/8APC6NBeC5AN3Te27"
+          }
         },
         {
           "description": "Jordana and Dev Lemons ",
@@ -6539,6 +6366,15 @@
           }
         },
         {
+          "description": "Grupo Fantasma ",
+          "eventLink": "https://tickets.austintheatre.org/9288",
+          "venue": {
+            "title": "Paramount Theater",
+            "href": "https://www.austintheatre.org/",
+            "map": "https://goo.gl/maps/mfdK4n3eneGRdEUM7"
+          }
+        },
+        {
           "description": "Osees (Night One) ",
           "eventLink": "https://link.dice.fm/OseesSept30",
           "venue": {
@@ -6592,7 +6428,7 @@
       "date": "Sunday, October 1st 2023",
       "shows": [
         {
-          "description": "Claud ",
+          "description": "Claud with Boyish ",
           "eventLink": "https://3tenaustin.com/calendar/claud-100123",
           "venue": {
             "title": "3TEN Austin City Limits Live",
@@ -6607,6 +6443,15 @@
             "title": "Stubb's",
             "href": "https://www.stubbsaustin.com/",
             "map": "https://goo.gl/maps/YP4HpizaisBNToKh9"
+          }
+        },
+        {
+          "description": "Josh Ritter ",
+          "eventLink": "https://tickets.austintheatre.org/9635",
+          "venue": {
+            "title": "Paramount Theater",
+            "href": "https://www.austintheatre.org/",
+            "map": "https://goo.gl/maps/mfdK4n3eneGRdEUM7"
           }
         },
         {
@@ -6664,7 +6509,7 @@
           }
         },
         {
-          "description": "Medium Build w/ Cece Coakley ",
+          "description": "SOLD OUT: Medium Build w/ Cece Coakley ",
           "eventLink": "https://antonesnightclub.com/tm-event/medium-build-w-cece-coakley/",
           "venue": {
             "title": "Antone's",
@@ -6696,6 +6541,15 @@
             "map": "https://goo.gl/maps/WpAmaWKfMwZV4eTGA"
           },
           "time": "6:30pm, Outdoor, All Ages"
+        },
+        {
+          "description": "Ichiko Aoba ",
+          "eventLink": "https://tickets.austintheatre.org/9536",
+          "venue": {
+            "title": "Paramount Theater",
+            "href": "https://www.austintheatre.org/",
+            "map": "https://goo.gl/maps/mfdK4n3eneGRdEUM7"
+          }
         },
         {
           "description": "JOJI ",
@@ -6777,6 +6631,15 @@
           "time": "7pm, Outdoor, All Ages"
         },
         {
+          "description": "Balmorhea ",
+          "eventLink": "https://tickets.austintheatre.org/9833",
+          "venue": {
+            "title": "Paramount Theater",
+            "href": "https://www.austintheatre.org/",
+            "map": "https://goo.gl/maps/mfdK4n3eneGRdEUM7"
+          }
+        },
+        {
           "description": "Death Grips ",
           "eventLink": "https://www.emosaustin.com/events-calendar/death-grips",
           "venue": {
@@ -6823,6 +6686,15 @@
             "href": "http://www.thefaroutaustin.com/",
             "map": "https://g.page/The-Far-Out?share"
           }
+        },
+        {
+          "description": "The Soul Rebels w/ Kam Franklin (of The Suffers) ",
+          "eventLink": "https://antonesnightclub.com/tm-event/the-soul-rebels-w-kam-franklin-of-the-suffers/",
+          "venue": {
+            "title": "Antone's",
+            "href": "https://www.antonesnightclub.com/",
+            "map": "https://goo.gl/maps/Qay1CvGbucGWX8b29"
+          }
         }
       ]
     },
@@ -6849,6 +6721,16 @@
             "map": "https://goo.gl/maps/XyjbbCzRW7R9zDtNA"
           },
           "time": "9:00 pm"
+        },
+        {
+          "description": "Sextile, N8NOFACE ",
+          "eventLink": "https://mohawkaustin.com/event/?id=532452770101653511",
+          "venue": {
+            "title": "Mohawk",
+            "href": "http://www.mohawkaustin.com/",
+            "map": "https://goo.gl/maps/WpAmaWKfMwZV4eTGA"
+          },
+          "time": "8pm, Outdoor, All Ages"
         }
       ]
     },
@@ -6865,6 +6747,15 @@
             "map": "https://goo.gl/maps/Jk9rZiPEYCi4ot2P6"
           },
           "time": "7:00 PM"
+        },
+        {
+          "description": "Marty Stuart ",
+          "eventLink": "https://tickets.austintheatre.org/9435",
+          "venue": {
+            "title": "Paramount Theater",
+            "href": "https://www.austintheatre.org/",
+            "map": "https://goo.gl/maps/mfdK4n3eneGRdEUM7"
+          }
         },
         {
           "description": "Paul Wall ",
@@ -6913,6 +6804,25 @@
       "date": "Tuesday, October 10th 2023",
       "shows": [
         {
+          "description": "BETWEEN FRIENDS: I Love My Girl, She’s My Boy Tour w/ Blaketheman1000 ",
+          "eventLink": "https://antonesnightclub.com/tm-event/between-friends-i-love-my-girl-shes-my-boy-tour/",
+          "venue": {
+            "title": "Antone's",
+            "href": "https://www.antonesnightclub.com/",
+            "map": "https://goo.gl/maps/Qay1CvGbucGWX8b29"
+          }
+        },
+        {
+          "description": "Man on Man ",
+          "eventLink": "https://mohawkaustin.com/event/?id=532452769834628982",
+          "venue": {
+            "title": "Mohawk",
+            "href": "http://www.mohawkaustin.com/",
+            "map": "https://goo.gl/maps/WpAmaWKfMwZV4eTGA"
+          },
+          "time": "8pm, Indoor, All Ages"
+        },
+        {
           "description": "TBA, Grooveline Horns ",
           "eventLink": "https://events.timely.fun/r5bk3h1a/event/76667175/20231010213000",
           "venue": {
@@ -6921,6 +6831,15 @@
             "map": "https://goo.gl/maps/mvL9kxoJ8nr7AVzn6"
           },
           "time": "9:30pm"
+        },
+        {
+          "description": "The Wallflowers ",
+          "eventLink": "https://tickets.austintheatre.org/9657",
+          "venue": {
+            "title": "Paramount Theater",
+            "href": "https://www.austintheatre.org/",
+            "map": "https://goo.gl/maps/mfdK4n3eneGRdEUM7"
+          }
         }
       ]
     },
@@ -6965,6 +6884,16 @@
             "href": "https://www.antonesnightclub.com/",
             "map": "https://goo.gl/maps/Qay1CvGbucGWX8b29"
           }
+        },
+        {
+          "description": "MILLY with Rocket, Stab ",
+          "eventLink": "https://wl.seetickets.us/event/Milly/560075?afflky=ResoundPresents",
+          "venue": {
+            "title": "Hotel Vegas",
+            "href": "https://texashotelvegas.com/",
+            "map": "https://goo.gl/maps/XyjbbCzRW7R9zDtNA"
+          },
+          "time": "7:00 pm"
         }
       ]
     },
@@ -6991,6 +6920,15 @@
           }
         },
         {
+          "description": "Pat Metheny ",
+          "eventLink": "https://tickets.austintheatre.org/9369",
+          "venue": {
+            "title": "Paramount Theater",
+            "href": "https://www.austintheatre.org/",
+            "map": "https://goo.gl/maps/mfdK4n3eneGRdEUM7"
+          }
+        },
+        {
           "description": "Restos ",
           "eventLink": "https://events.timely.fun/r5bk3h1a/event/76776029/20231012183000",
           "venue": {
@@ -7014,6 +6952,16 @@
             "href": "http://germaniaamp.com/",
             "map": "https://goo.gl/maps/jK28MGn3yg87j4v98"
           }
+        },
+        {
+          "description": "Danielle Nicole ",
+          "eventLink": "https://www.eventbrite.com/e/danielle-nicole-tickets-687387403227?aff=ebdsoporgprofile",
+          "venue": {
+            "title": "Saxon Pub",
+            "href": "https://www.thesaxonpub.com/",
+            "map": "https://goo.gl/maps/JTFBunRPYJ6fd1dK6"
+          },
+          "time": "10:00 PM"
         },
         {
           "description": "Kessler Presents: Paul Thorn ",
@@ -7054,6 +7002,15 @@
       "isodate": "20231015",
       "date": "Sunday, October 15th 2023",
       "shows": [
+        {
+          "description": "Chris Botti ",
+          "eventLink": "https://tickets.austintheatre.org/9966",
+          "venue": {
+            "title": "Paramount Theater",
+            "href": "https://www.austintheatre.org/",
+            "map": "https://goo.gl/maps/mfdK4n3eneGRdEUM7"
+          }
+        },
         {
           "description": "Gospel Brunch: Disciples of Joy ",
           "eventLink": "https://www.stubbsaustin.com/concert-listings",
@@ -7104,7 +7061,17 @@
       "date": "Tuesday, October 17th 2023",
       "shows": [
         {
-          "description": "Aidan Bissett ",
+          "description": "Acid Mothers Temple with Grandmaster Orchestra ",
+          "eventLink": "https://link.dice.fm/AMT",
+          "venue": {
+            "title": "Hotel Vegas",
+            "href": "https://texashotelvegas.com/",
+            "map": "https://goo.gl/maps/XyjbbCzRW7R9zDtNA"
+          },
+          "time": "6:00 pm"
+        },
+        {
+          "description": "Aidan Bissett: Supernova Tour with Anna Shoemaker ",
           "eventLink": "https://3tenaustin.com/calendar/aidan-bissett-101723",
           "venue": {
             "title": "3TEN Austin City Limits Live",
@@ -7128,6 +7095,15 @@
       "isodate": "20231018",
       "date": "Wednesday, October 18th 2023",
       "shows": [
+        {
+          "description": "Ben Folds ",
+          "eventLink": "https://tickets.austintheatre.org/9655",
+          "venue": {
+            "title": "Paramount Theater",
+            "href": "https://www.austintheatre.org/",
+            "map": "https://goo.gl/maps/mfdK4n3eneGRdEUM7"
+          }
+        },
         {
           "description": "Peter Gabriel ",
           "eventLink": "https://moodycenteratx.com/event/peter-gabriel/",
@@ -7169,6 +7145,15 @@
             "title": "The 04 Center"
           },
           "time": "7:00 PM"
+        },
+        {
+          "description": "Canceled: Omara Portuondo ",
+          "eventLink": "https://tickets.austintheatre.org/9885",
+          "venue": {
+            "title": "Paramount Theater",
+            "href": "https://www.austintheatre.org/",
+            "map": "https://goo.gl/maps/mfdK4n3eneGRdEUM7"
+          }
         },
         {
           "description": "Cowboy Mouth ",
@@ -7257,6 +7242,15 @@
             "map": "https://goo.gl/maps/mvL9kxoJ8nr7AVzn6"
           },
           "time": "10:00pm"
+        },
+        {
+          "description": "Matt Corby ",
+          "eventLink": "https://tickets.austintheatre.org/9075",
+          "venue": {
+            "title": "Paramount Theater",
+            "href": "https://www.austintheatre.org/",
+            "map": "https://goo.gl/maps/mfdK4n3eneGRdEUM7"
+          }
         },
         {
           "description": "Pepe Aguilar ",
@@ -7368,6 +7362,15 @@
           "time": "6:00pm"
         },
         {
+          "description": "Roger McGuinn ",
+          "eventLink": "https://tickets.austintheatre.org/9446",
+          "venue": {
+            "title": "Paramount Theater",
+            "href": "https://www.austintheatre.org/",
+            "map": "https://goo.gl/maps/mfdK4n3eneGRdEUM7"
+          }
+        },
+        {
           "description": "Two Lanes ",
           "eventLink": "https://antonesnightclub.com/tm-event/two-lanes/",
           "venue": {
@@ -7417,6 +7420,15 @@
             "title": "Stubb's",
             "href": "https://www.stubbsaustin.com/",
             "map": "https://goo.gl/maps/YP4HpizaisBNToKh9"
+          }
+        },
+        {
+          "description": "Jonas Brothers ",
+          "eventLink": "https://moodycenteratx.com/event/jonas-brothers-2/",
+          "venue": {
+            "title": "Moody Center",
+            "href": "https://moodycenteratx.com/",
+            "map": "https://goo.gl/maps/2KtqAFQwq7rpRHJF8"
           }
         },
         {
@@ -7479,6 +7491,15 @@
       "date": "Tuesday, October 24th 2023",
       "shows": [
         {
+          "description": "An Evening with Bruce Hornsby ",
+          "eventLink": "https://tickets.austintheatre.org/9998",
+          "venue": {
+            "title": "Paramount Theater",
+            "href": "https://www.austintheatre.org/",
+            "map": "https://goo.gl/maps/mfdK4n3eneGRdEUM7"
+          }
+        },
+        {
           "description": "Clown Core ",
           "eventLink": "https://wl.seetickets.us/event/Clown-Core/558099?afflky=ResoundPresents",
           "venue": {
@@ -7529,9 +7550,360 @@
       ]
     },
     {
+      "isodate": "20231025",
+      "date": "Wednesday, October 25th 2023",
+      "shows": [
+        {
+          "description": "$uicideboy$ ",
+          "eventLink": "https://moodycenteratx.com/event/suicideboys/",
+          "venue": {
+            "title": "Moody Center",
+            "href": "https://moodycenteratx.com/",
+            "map": "https://goo.gl/maps/2KtqAFQwq7rpRHJF8"
+          }
+        },
+        {
+          "description": "Michelle Branch, Bad Bad Hats ",
+          "eventLink": "https://mohawkaustin.com/event/?id=532452769621915417",
+          "venue": {
+            "title": "Mohawk",
+            "href": "http://www.mohawkaustin.com/",
+            "map": "https://goo.gl/maps/WpAmaWKfMwZV4eTGA"
+          },
+          "time": "7pm, Outdoor, All Ages"
+        },
+        {
+          "description": "Sammie: Love Always Wins Tour w/ PJ & Rachael Marks ",
+          "eventLink": "https://antonesnightclub.com/tm-event/sammie-love-always-wins-tour-w-pj-rachel-marks/",
+          "venue": {
+            "title": "Antone's",
+            "href": "https://www.antonesnightclub.com/",
+            "map": "https://goo.gl/maps/Qay1CvGbucGWX8b29"
+          }
+        }
+      ]
+    },
+    {
+      "isodate": "20231026",
+      "date": "Thursday, October 26th 2023",
+      "shows": [
+        {
+          "description": "ACL Hall of Fame Induction Celebration Honoring Trisha Yearwood & John Prine ",
+          "eventLink": "https://acllive.com/calendar/acl-hof-102623",
+          "venue": {
+            "title": "Austin City Limits Live at The Moody Theater",
+            "href": "https://acl-live.com/",
+            "map": "https://goo.gl/maps/sv95TT6mCFterhwJA"
+          }
+        },
+        {
+          "description": "Demob Happy ",
+          "eventLink": "https://antonesnightclub.com/tm-event/demob-happy/",
+          "venue": {
+            "title": "Antone's",
+            "href": "https://www.antonesnightclub.com/",
+            "map": "https://goo.gl/maps/Qay1CvGbucGWX8b29"
+          }
+        },
+        {
+          "description": "LEVITATION 2023: UNWOUND, CODEINE, KARATE, CHISEL, AND MORE ",
+          "eventLink": "http://www.thefaroutaustin.com/eventDetails.html#-NZ24ZY5dcImKPMPhFwn",
+          "venue": {
+            "title": "The Far Out Lounge and Stage",
+            "href": "http://www.thefaroutaustin.com/",
+            "map": "https://g.page/The-Far-Out?share"
+          }
+        },
+        {
+          "description": "LEVITATION: DEAD MEADOW • ECSTATIC VISION • 1000MODS, presented with HEAVY PSYCH SOUNDS ",
+          "eventLink": "http://bit.ly/LEV23",
+          "venue": {
+            "title": "Hotel Vegas",
+            "href": "https://texashotelvegas.com/",
+            "map": "https://goo.gl/maps/XyjbbCzRW7R9zDtNA"
+          },
+          "time": "5:00 pm"
+        },
+        {
+          "description": "LEVITATION: Ty Segall, Shannon & The Clams, Rose City Band, Annabelle Chairlegs ",
+          "eventLink": "https://www.stubbsaustin.com/concert-listings",
+          "venue": {
+            "title": "Stubb's",
+            "href": "https://www.stubbsaustin.com/",
+            "map": "https://goo.gl/maps/YP4HpizaisBNToKh9"
+          }
+        },
+        {
+          "description": "Restos ",
+          "eventLink": "https://events.timely.fun/r5bk3h1a/event/76776029/20231026183000",
+          "venue": {
+            "title": "C-Boy’s Heart & Soul",
+            "href": "https://www.cboys.com/",
+            "map": "https://goo.gl/maps/mvL9kxoJ8nr7AVzn6"
+          },
+          "time": "6:30pm"
+        },
+        {
+          "description": "The Church, Lsd and the Search For God ",
+          "eventLink": "https://mohawkaustin.com/event/?id=532452769915011508",
+          "venue": {
+            "title": "Mohawk",
+            "href": "http://www.mohawkaustin.com/",
+            "map": "https://goo.gl/maps/WpAmaWKfMwZV4eTGA"
+          },
+          "time": "8pm, Outdoor, All Ages"
+        }
+      ]
+    },
+    {
+      "isodate": "20231027",
+      "date": "Friday, October 27th 2023",
+      "shows": [
+        {
+          "description": "Blonde Redhead, Blushing ",
+          "eventLink": "https://mohawkaustin.com/event/?id=532452769915022553",
+          "venue": {
+            "title": "Mohawk",
+            "href": "http://www.mohawkaustin.com/",
+            "map": "https://goo.gl/maps/WpAmaWKfMwZV4eTGA"
+          },
+          "time": "8pm, Outdoor, All Ages"
+        },
+        {
+          "description": "Daniel Champagne ",
+          "eventLink": "https://www.eventbrite.com/e/daniel-champagne-tickets-570958932537?aff=ebdsoporgprofile",
+          "venue": {
+            "title": "Saxon Pub",
+            "href": "https://www.thesaxonpub.com/",
+            "map": "https://goo.gl/maps/JTFBunRPYJ6fd1dK6"
+          },
+          "time": "10:00 PM"
+        },
+        {
+          "description": "LEVITATION 2023 ",
+          "eventLink": "https://antonesnightclub.com/tm-event/levitation-2023/",
+          "venue": {
+            "title": "Antone's",
+            "href": "https://www.antonesnightclub.com/",
+            "map": "https://goo.gl/maps/Qay1CvGbucGWX8b29"
+          }
+        },
+        {
+          "description": "LEVITATION 2023: UNKNOWN MORTAL ORCHESTRA, PANDA BEAR AND SONIC BOOM, ALLAH-LAS, TANUKICHAN, AMULETS, SAM BURTON ",
+          "eventLink": "http://www.thefaroutaustin.com/eventDetails.html#-NZ25VpEYpHuiNFbpxLW",
+          "venue": {
+            "title": "The Far Out Lounge and Stage",
+            "href": "http://www.thefaroutaustin.com/",
+            "map": "https://g.page/The-Far-Out?share"
+          }
+        },
+        {
+          "description": "LEVITATION: Uncle Acid & The Deadbeats, High On Fire, The Well ",
+          "eventLink": "https://www.stubbsaustin.com/concert-listings",
+          "venue": {
+            "title": "Stubb's",
+            "href": "https://www.stubbsaustin.com/",
+            "map": "https://goo.gl/maps/YP4HpizaisBNToKh9"
+          }
+        },
+        {
+          "description": "LEVITATION: WARMDUSCHER • CIVIC • FAT DOG ",
+          "eventLink": "http://bit.ly/LEV23",
+          "venue": {
+            "title": "Hotel Vegas",
+            "href": "https://texashotelvegas.com/",
+            "map": "https://goo.gl/maps/XyjbbCzRW7R9zDtNA"
+          },
+          "time": "7:00 pm"
+        },
+        {
+          "description": "Parker McCollum ",
+          "eventLink": "https://moodycenteratx.com/event/parker-mccollum-2023/",
+          "venue": {
+            "title": "Moody Center",
+            "href": "https://moodycenteratx.com/",
+            "map": "https://goo.gl/maps/2KtqAFQwq7rpRHJF8"
+          }
+        },
+        {
+          "description": "Ritt Momney ",
+          "eventLink": "https://3tenaustin.com/calendar/ritt-momney-102723",
+          "venue": {
+            "title": "3TEN Austin City Limits Live",
+            "href": "https://3tenaustin.com/",
+            "map": "https://goo.gl/maps/x5RB7U6jfaCN7ybx6"
+          }
+        },
+        {
+          "description": "Trombone Shorty & Orleans Avenue with New Breed Brass Band ",
+          "eventLink": "https://acllive.com/calendar/trombone-shorty-orleans-avenue-102723",
+          "venue": {
+            "title": "Austin City Limits Live at The Moody Theater",
+            "href": "https://acl-live.com/",
+            "map": "https://goo.gl/maps/sv95TT6mCFterhwJA"
+          }
+        }
+      ]
+    },
+    {
+      "isodate": "20231028",
+      "date": "Saturday, October 28th 2023",
+      "shows": [
+        {
+          "description": "Durand Jones, + More! ",
+          "eventLink": "https://mohawkaustin.com/event/?id=532452769915024516",
+          "venue": {
+            "title": "Mohawk",
+            "href": "http://www.mohawkaustin.com/",
+            "map": "https://goo.gl/maps/WpAmaWKfMwZV4eTGA"
+          },
+          "time": "8pm, Outdoor, All Ages"
+        },
+        {
+          "description": "LEVITATION 2023 ",
+          "eventLink": "https://antonesnightclub.com/tm-event/levitation-2023-2023-10-28/",
+          "venue": {
+            "title": "Antone's",
+            "href": "https://www.antonesnightclub.com/",
+            "map": "https://goo.gl/maps/Qay1CvGbucGWX8b29"
+          }
+        },
+        {
+          "description": "LEVITATION 2023: THE BRIAN JONESTOWN MASSACRE, THE BLACK ANGELS, THE DANDY WARHOLS, LORELLE MEETS THE OBSOLETE ",
+          "eventLink": "http://www.thefaroutaustin.com/eventDetails.html#-NZ26fubZsoYRaU5BSqV",
+          "venue": {
+            "title": "The Far Out Lounge and Stage",
+            "href": "http://www.thefaroutaustin.com/",
+            "map": "https://g.page/The-Far-Out?share"
+          }
+        },
+        {
+          "description": "LEVITATION: Amyl & The Sniffers, Militarie Gun, Die Spitz ",
+          "eventLink": "https://www.stubbsaustin.com/concert-listings",
+          "venue": {
+            "title": "Stubb's",
+            "href": "https://www.stubbsaustin.com/",
+            "map": "https://goo.gl/maps/YP4HpizaisBNToKh9"
+          }
+        },
+        {
+          "description": "LEVITATION: SONIDO GALLO NEGRO • GIO CHAMBA • EL COMBO OSCURO ",
+          "eventLink": "http://bit.ly/LEV23",
+          "venue": {
+            "title": "Hotel Vegas",
+            "href": "https://texashotelvegas.com/",
+            "map": "https://goo.gl/maps/XyjbbCzRW7R9zDtNA"
+          },
+          "time": "7:00 pm"
+        },
+        {
+          "description": "Shakey Graves: Movie Of The Week Tour 2023 with Flipturn ",
+          "eventLink": "https://www.moodyamphitheater.com/events/shakey-graves",
+          "venue": {
+            "title": "Moody Amphitheater",
+            "href": "https://waterloogreenway.org/events/",
+            "map": "https://goo.gl/maps/pytu6q3SF74GxHMa8"
+          },
+          "time": "6:00pm"
+        },
+        {
+          "description": "THE CHATS with special guests, COSMIC PSYCHOS, THE SCHIZOPHONICS, GYMSHORTS ",
+          "eventLink": "https://www.emosaustin.com/events-calendar/the-chats-with-special-guests-cosmic-psychos-the-schizophonics-gymshorts",
+          "venue": {
+            "title": "Emo's",
+            "href": "https://www.emosaustin.com/",
+            "map": "https://goo.gl/maps/Jk9rZiPEYCi4ot2P6"
+          },
+          "time": "6:00 PM"
+        },
+        {
+          "description": "The Front Bottoms with slothrust ",
+          "eventLink": "https://acllive.com/calendar/the-front-bottoms-102823",
+          "venue": {
+            "title": "Austin City Limits Live at The Moody Theater",
+            "href": "https://acl-live.com/",
+            "map": "https://goo.gl/maps/sv95TT6mCFterhwJA"
+          }
+        }
+      ]
+    },
+    {
       "isodate": "20231029",
       "date": "Sunday, October 29th 2023",
       "shows": [
+        {
+          "description": "13th annual Swan Songs Serenade benefit and gala with Jackie Venson ",
+          "eventLink": "https://www.swansongs.org/news-and-events/2023-swan-songs-serenade",
+          "venue": {
+            "title": "Four Seasons Hotel Austin",
+            "href": "https://www.fourseasons.com/austin/?ppc=true&utm_source=google&utm_medium=paidsearch&utm_campaign=acronym-aus-hre-low-allglobalbrandnew-na&utm_content=na-71700000100983385-58700008073312538-0&utm_term=na&gclid=Cj0KCQjwwvilBhCFARIsADvYi7Kuf2yb4yoGkcWotmuEQ4t7gNRGJIPm_p1e0aVSuFnwVfGpW_YiPbIaAsLZEALw_wcB&gclsrc=aw.ds"
+          },
+          "time": "6:00 PM"
+        },
+        {
+          "description": "Death From Above 1979, + More! ",
+          "eventLink": "https://mohawkaustin.com/event/?id=532452769915025434",
+          "venue": {
+            "title": "Mohawk",
+            "href": "http://www.mohawkaustin.com/",
+            "map": "https://goo.gl/maps/WpAmaWKfMwZV4eTGA"
+          },
+          "time": "6pm, Outdoor, All Ages"
+        },
+        {
+          "description": "Gospel Brunch: Shields of Faith ",
+          "eventLink": "https://www.stubbsaustin.com/concert-listings",
+          "venue": {
+            "title": "Stubb's",
+            "href": "https://www.stubbsaustin.com/",
+            "map": "https://goo.gl/maps/YP4HpizaisBNToKh9"
+          }
+        },
+        {
+          "description": "Joe Bonamassa ",
+          "eventLink": "https://acllive.com/calendar/joe-bonamassa-102923",
+          "venue": {
+            "title": "Austin City Limits Live at The Moody Theater",
+            "href": "https://acl-live.com/",
+            "map": "https://goo.gl/maps/sv95TT6mCFterhwJA"
+          }
+        },
+        {
+          "description": "KISS ",
+          "eventLink": "https://moodycenteratx.com/event/kiss/",
+          "venue": {
+            "title": "Moody Center",
+            "href": "https://moodycenteratx.com/",
+            "map": "https://goo.gl/maps/2KtqAFQwq7rpRHJF8"
+          }
+        },
+        {
+          "description": "LEVITATION 2023 ",
+          "eventLink": "https://antonesnightclub.com/tm-event/levitation-2023-2023-10-29/",
+          "venue": {
+            "title": "Antone's",
+            "href": "https://www.antonesnightclub.com/",
+            "map": "https://goo.gl/maps/Qay1CvGbucGWX8b29"
+          }
+        },
+        {
+          "description": "LEVITATION 2023: BADBADNOTGOOD w/ ARMAND HAMMER AND MORE ",
+          "eventLink": "http://www.thefaroutaustin.com/eventDetails.html#-NZ27RGAvXy1tGBW50aK",
+          "venue": {
+            "title": "The Far Out Lounge and Stage",
+            "href": "http://www.thefaroutaustin.com/",
+            "map": "https://g.page/The-Far-Out?share"
+          }
+        },
+        {
+          "description": "LEVITATION: Beach Fossils, Turnover ",
+          "eventLink": "https://www.stubbsaustin.com/concert-listings",
+          "venue": {
+            "title": "Stubb's",
+            "href": "https://www.stubbsaustin.com/",
+            "map": "https://goo.gl/maps/YP4HpizaisBNToKh9"
+          }
+        },
         {
           "description": "Sloppy Seconds, Shitty Advice, Worm Suicide, The Victim, Brewtality INC ",
           "eventLink": "https://www.facebook.com/events/2055827764603324",
@@ -7540,6 +7912,102 @@
             "href": "https://www.kickbuttcoffee.com/"
           },
           "time": "8:00 PM, All Ages"
+        }
+      ]
+    },
+    {
+      "isodate": "20231030",
+      "date": "Monday, October 30th 2023",
+      "shows": [
+        {
+          "description": "Coco Montoya ",
+          "eventLink": "https://antonesnightclub.com/tm-event/coco-montoya/",
+          "venue": {
+            "title": "Antone's",
+            "href": "https://www.antonesnightclub.com/",
+            "map": "https://goo.gl/maps/Qay1CvGbucGWX8b29"
+          }
+        },
+        {
+          "description": "Heilung ",
+          "eventLink": "https://acllive.com/calendar/heilung-103023",
+          "venue": {
+            "title": "Austin City Limits Live at The Moody Theater",
+            "href": "https://acl-live.com/",
+            "map": "https://goo.gl/maps/sv95TT6mCFterhwJA"
+          }
+        },
+        {
+          "description": "Kimmie & Gabriel Rhodes & Friends – Shawn Pander, Johnny Goudie & John Chip ",
+          "eventLink": "https://www.eventbrite.com/e/kimmie-gabriel-rhodes-friends-shawn-pander-johnny-goudie-john-chip-tickets-679034549617?aff=ebdsoporgprofile",
+          "venue": {
+            "title": "Saxon Pub",
+            "href": "https://www.thesaxonpub.com/",
+            "map": "https://goo.gl/maps/JTFBunRPYJ6fd1dK6"
+          },
+          "time": "6:00 PM"
+        },
+        {
+          "description": "Kool Keith: Black Elvisour ",
+          "eventLink": "https://antonesnightclub.com/tm-event/kool-keith-black-elvis-2-tour/",
+          "venue": {
+            "title": "Antone's",
+            "href": "https://www.antonesnightclub.com/",
+            "map": "https://goo.gl/maps/Qay1CvGbucGWX8b29"
+          }
+        },
+        {
+          "description": "Moon Walker, Nordista Freeze ",
+          "eventLink": "https://mohawkaustin.com/event/?id=532452770004042757",
+          "venue": {
+            "title": "Mohawk",
+            "href": "http://www.mohawkaustin.com/",
+            "map": "https://goo.gl/maps/WpAmaWKfMwZV4eTGA"
+          },
+          "time": "7pm, Indoor, All Ages"
+        },
+        {
+          "description": "with Sara Kays ",
+          "eventLink": "https://scootinnaustin.com/",
+          "venue": {
+            "title": "Scoot Inn",
+            "href": "https://scootinnaustin.com/",
+            "map": "https://goo.gl/maps/hCtpwCr62H4fY4pR9"
+          }
+        }
+      ]
+    },
+    {
+      "isodate": "20231031",
+      "date": "Tuesday, October 31st 2023",
+      "shows": [
+        {
+          "description": "Gipsy Kings featuring Tonino Baliardo ",
+          "eventLink": "https://acllive.com/calendar/gipsy-kings-103123",
+          "venue": {
+            "title": "Austin City Limits Live at The Moody Theater",
+            "href": "https://acl-live.com/",
+            "map": "https://goo.gl/maps/sv95TT6mCFterhwJA"
+          }
+        },
+        {
+          "description": "KUTX Birthday Concert Series: Genesis Owusu ",
+          "eventLink": "https://empireatx.com/events/live-nation-resound-present-genesis-owusu/",
+          "venue": {
+            "title": "Empire Control Room & Garage",
+            "href": "http://empireatx.com/",
+            "map": "https://goo.gl/maps/TNmcJw4minmK4NtH6"
+          }
+        },
+        {
+          "description": "TBA, Grooveline Horns ",
+          "eventLink": "https://events.timely.fun/r5bk3h1a/event/76667175/20231031213000",
+          "venue": {
+            "title": "C-Boy’s Heart & Soul",
+            "href": "https://www.cboys.com/",
+            "map": "https://goo.gl/maps/mvL9kxoJ8nr7AVzn6"
+          },
+          "time": "9:30pm"
         }
       ]
     },
